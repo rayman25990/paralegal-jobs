@@ -9,7 +9,8 @@ from __future__ import annotations
 import json
 
 PAGE_FIELDS = ("id", "title", "company", "location", "salary", "contract_type", "hours", "practice_area",
-               "url", "links", "sources", "posted", "first_seen", "score", "score_reason", "policy_focus")
+               "url", "links", "sources", "posted", "first_seen", "score", "score_reason", "policy_focus",
+               "experience_level")
 
 
 def _embed_json(value) -> str:
@@ -116,6 +117,7 @@ footer code { font-size: .8rem; }
       <button type="button" data-sort="fit" aria-pressed="false">Best fit</button>
     </span>
     <label><input type="checkbox" id="f-policy"> Policy focus only</label>
+    <label><input type="checkbox" id="f-grad"> Graduate / no experience only</label>
     <label>Contract <select id="f-contract"><option value="">Any</option></select></label>
     <label>Min score <select id="f-score">
       <option value="0">Any</option><option value="2">2+</option><option value="3">3+</option>
@@ -149,7 +151,8 @@ footer code { font-size: .8rem; }
   var DATA = JSON.parse(document.getElementById("data").textContent);
   var meta = DATA.meta || {};
   var jobs = DATA.jobs || [];
-  var state = { sort: "newest", policy: false, contract: "", minScore: 0 };
+  var GRADUATE = "Graduate / no experience";
+  var state = { sort: "newest", policy: false, grad: false, contract: "", minScore: 0 };
 
   function el(tag, attrs, children) {
     var node = document.createElement(tag);
@@ -195,6 +198,7 @@ footer code { font-size: .8rem; }
 
   function matches(job) {
     if (state.policy && !job.policy_focus) return false;
+    if (state.grad && job.experience_level !== GRADUATE) return false;
     if (state.contract && job.contract_type !== state.contract) return false;
     if (job.score < state.minScore) return false;
     return true;
@@ -230,6 +234,7 @@ footer code { font-size: .8rem; }
         fact("Salary", job.salary),
         fact("Location", job.location || "London"),
         fact("Contract", contract),
+        fact("Experience", job.experience_level || "Not stated"),
         fact("Fit score", stars + " " + job.score + "/5", "score")
       ]),
       el("p", { class: "reason", text: job.score_reason }),
@@ -245,7 +250,7 @@ footer code { font-size: .8rem; }
     container.appendChild(frag);
   }
 
-  function filtersActive() { return state.policy || state.contract || state.minScore > 0; }
+  function filtersActive() { return state.policy || state.grad || state.contract || state.minScore > 0; }
 
   function render() {
     var visible = jobs.filter(matches).sort(compare);
@@ -296,11 +301,12 @@ footer code { font-size: .8rem; }
     b.addEventListener("click", function () { state.sort = b.getAttribute("data-sort"); render(); });
   });
   document.getElementById("f-policy").addEventListener("change", function (e) { state.policy = e.target.checked; render(); });
+  document.getElementById("f-grad").addEventListener("change", function (e) { state.grad = e.target.checked; render(); });
   sel.addEventListener("change", function (e) { state.contract = e.target.value; render(); });
   document.getElementById("f-score").addEventListener("change", function (e) { state.minScore = Number(e.target.value); render(); });
   document.getElementById("reset").addEventListener("click", function () {
-    state.policy = false; state.contract = ""; state.minScore = 0;
-    document.getElementById("f-policy").checked = false; sel.value = ""; document.getElementById("f-score").value = "0";
+    state.policy = false; state.grad = false; state.contract = ""; state.minScore = 0;
+    document.getElementById("f-policy").checked = false; document.getElementById("f-grad").checked = false; sel.value = ""; document.getElementById("f-score").value = "0";
     render();
   });
 

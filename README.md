@@ -20,10 +20,20 @@ dashboard to GitHub Pages.
     or more of these appear. These jobs also get a **Policy focus** badge.
   - **+1** for career-friendly signals: future trainee, SQE, graduate, part-time, temporary or hybrid.
   - **−1** if it asks for 2+ years of experience.
+- **Classifies experience level** from each job's title and description, as one of three values:
+  - **Graduate / no experience:** graduate, entry level, junior, trainee, future trainee, "no experience necessary",
+    "no prior experience", law or recent graduate, "LLB/LLM/SQE students welcome", or a requirement of under 1 year.
+  - **Experience required:** any stated requirement of 1+ years (or 12+ months, or PQE), "proven experience",
+    "an experienced … paralegal", "previous experience as a …", or a "Senior Paralegal" title.
+  - **Not stated:** neither of the above.
+
+  A stated requirement always wins, so "law graduate preferred, 2+ years' experience" counts as *Experience
+  required*. Colleagues don't count: "supervise trainees" and "working alongside experienced paralegals" are ignored.
+  Every job is re-classified on every run.
 - **Publishes `docs/index.html`.** It shows all jobs by default, with a "New since last run" section at the top.
   Each job shows its salary, location, contract type, practice area, a direct link and when the page was last
   updated. You can sort by **Newest** (the default) or **Best fit**. Optional filters cover *Policy focus only*,
-  contract type and minimum score; all of them are off by default.
+  *Graduate / no experience only*, contract type and minimum score; all of them are off by default.
 
 ## Setup
 
@@ -63,6 +73,11 @@ with just one source configured; the other will show as an error in the dashboar
 
 After that, the workflow runs automatically every 3 hours (at minute 17, UTC).
 
+Each run checks out the latest `main`. If `main` moves during a run (for example, you merge a PR), the push would
+clash with the regenerated files. In that case the commit step throws its commit away, resets to the new `main` and
+re-runs the update on top of it, retrying up to 3 times. It never commits merge-conflict markers. If
+`data/jobs.json` is ever corrupt, the run stops rather than starting from an empty list.
+
 If the commit step fails with a permissions error, go to **Settings → Actions → General → Workflow permissions**
 and select **Read and write permissions**.
 
@@ -93,4 +108,5 @@ The tracker needs Python 3.10+ and has no third-party dependencies.
 - `scripts/render_dashboard.py`: the static dashboard template
 - `data/jobs.json`: the job store (committed by the workflow)
 - `docs/index.html`: the published dashboard (committed by the workflow)
-- `.github/workflows/update-jobs.yml`: the schedule and the commit step
+- `scripts/commit_and_push.sh`: the commit step, which rebuilds on the latest `main` if a push clashes
+- `.github/workflows/update-jobs.yml`: the schedule
