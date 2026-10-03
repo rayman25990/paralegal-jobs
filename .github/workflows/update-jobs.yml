@@ -17,7 +17,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
+      # Always start from the latest main, not the SHA that triggered the run.
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: actions/setup-python@v5
         with:
@@ -33,15 +36,16 @@ jobs:
           ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
         run: python scripts/update_jobs.py
 
+      # If main moved during the run, this resets to it and re-runs the update
+      # (hence the API keys) instead of rebase-merging generated files.
       - name: Commit updated data and page
+        env:
+          BRANCH: main
+          MAX_RETRIES: "3"
+          REED_API_KEY: ${{ secrets.REED_API_KEY }}
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/jobs.json docs/index.html
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
-          git commit -m "Update paralegal jobs ($(date -u +'%Y-%m-%d %H:%M UTC'))"
-          git pull --rebase origin "${GITHUB_REF_NAME}"
-          git push origin "HEAD:${GITHUB_REF_NAME}"
+          scripts/commit_and_push.sh

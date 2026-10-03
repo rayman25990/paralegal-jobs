@@ -353,25 +353,150 @@ PRACTICE_AREAS = [
 NUM_WORDS = {"one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "seven": 7, "eight": 8, "nine": 9, "ten": 10}
 _NUM = r"(\d{1,2}|one|two|three|four|five|six|seven|eight|nine|ten)"
 YEARS_RE = re.compile(
-    _NUM + r"\s*\+?\s*(?:(?:-|–|to)\s*" + _NUM + r"\s*\+?\s*)?(?:years?|yrs?)\b",
+    _NUM + r"\s*\+?\s*(?:(?:-|–|to)\s*" + _NUM + r"\s*\+?\s*)?-?\s*(years?|yrs?|pqe|months?|mths?)\b",
     re.IGNORECASE,
 )
 EXPERIENCE_CONTEXT_RE = re.compile(r"experience|pqe|paralegal|background|in a (?:legal|law)|working (?:in|as|within)", re.IGNORECASE)
 REQUIREMENT_PREFIX_RE = re.compile(r"(?:minimum|at least|min\.?|over|more than|plus)\s*(?:of\s*)?$", re.IGNORECASE)
+# "under 1 year", "less than two years": a ceiling, not a requirement.
+CEILING_PREFIX_RE = re.compile(r"(?:under|less than|fewer than|up to|no more than|maximum(?: of)?|max\.?)\s*$", re.IGNORECASE)
+# "a 1 year fixed term contract", "2 year training contract": a duration, not a requirement.
+DURATION_SUFFIX_RE = re.compile(
+    r"[\s'’s]*(?:fixed|contract|ftc|term|maternity|secondment|placement|programme|course|training|degree|llb|llm)",
+    re.IGNORECASE,
+)
+
+
+def year_requirements(text: str):
+    """Yield (minimum years, phrase) for each stated experience requirement in the text.
+
+    Months are converted to years, so "6+ months' experience" yields 0.5.
+    """
+    for m in YEARS_RE.finditer(text):
+        lower = m.group(1).lower()
+        years = NUM_WORDS.get(lower)
+        if years is None:
+            years = int(lower)
+        if m.group(3).lower().startswith("m"):
+            years = years / 12
+        if years > 15:
+            continue
+        before = text[max(0, m.start() - 25):m.start()].rstrip()
+        after = text[m.end():m.end() + 50]
+        if CEILING_PREFIX_RE.search(before) or DURATION_SUFFIX_RE.match(after):
+            continue
+        if m.group(3).lower() == "pqe" or EXPERIENCE_CONTEXT_RE.search(after) or REQUIREMENT_PREFIX_RE.search(before):
+            yield years, m.group(0)
 
 
 def requires_experience(text: str, min_years: int = 2) -> str | None:
     """Return the matching phrase if the text asks for >= min_years experience."""
-    for m in YEARS_RE.finditer(text):
-        lower = m.group(1).lower()
-        years = NUM_WORDS.get(lower) or int(lower)
-        if years < min_years or years > 15:
-            continue
-        before = text[max(0, m.start() - 25):m.start()]
-        after = text[m.end():m.end() + 50]
-        if EXPERIENCE_CONTEXT_RE.search(after) or REQUIREMENT_PREFIX_RE.search(before.rstrip()):
-            return m.group(0)
+    for years, phrase in year_requirements(text):
+        if years >= min_years:
+            return phrase
     return None
+
+
+# --------------------------------------------------------------------------
+# Experience level
+# --------------------------------------------------------------------------
+
+EXPERIENCE_GRADUATE = "Graduate / no experience"
+EXPERIENCE_REQUIRED = "Experience required"
+EXPERIENCE_NOT_STATED = "Not stated"
+
+# A word like "trainee" or "junior" only signals a graduate-friendly role when it
+# describes the job itself, not the people it works with ("supervise trainees").
+_COLLEAGUE_BEFORE = (r"(?:supervis\w*|manag\w*|mentor\w*|overse\w*|lead\w*|train\w*|support\w*|assist\w*|"
+                     r"alongside|with|deleg\w*|coordinat\w*|direct\w*|instruct\w*|liais\w*|report\w* to)"
+                     r"\s+(?:(?:the|our|a|an|other|and|&|team|of|new|junior|trainee|graduate|fee[- ]earners?|,)\s*){0,3}$")
+COLLEAGUE_BEFORE_RE = re.compile(_COLLEAGUE_BEFORE, re.IGNORECASE)
+MANAGER_BEFORE_RE = re.compile(r"(?:supervis\w*|manag\w*|mentor\w*|overse\w*|lead\w*)\s+(?:(?:the|our|a|an|other|and|&|team|of|new|junior|,)\s*){0,3}$",
+                               re.IGNORECASE)
+LEARN_FROM_BEFORE_RE = re.compile(
+    r"(?:(?:alongside|with|by|from|among|join(?:ing)?|support(?:ing)?|supported by)\s+(?:(?:the|our|a|an|other|team|of|highly|very|and|&)\s*){0,3}"
+    r"|graduates?\s+(?:or|/)\s*(?:an?\s+)?)$",
+    re.IGNORECASE)
+
+GRADUATE_SIGNALS = [
+    # (label, pattern, guard on the preceding text that cancels the match)
+    ("future trainee", _rx(r"future trainees?"), None),
+    ("no experience necessary", _rx(r"no (?:prior |previous |legal |paralegal )?experience (?:is )?(?:necessary|needed|required|essential)",
+                                    r"(?:prior|previous) experience (?:is )?not (?:necessary|needed|required|essential)",
+                                    r"without (?:prior |previous )?experience"), None),
+    ("no prior experience", _rx(r"no (?:prior|previous) experience"), None),
+    ("under 1 year", _rx(r"(?:under|less than|fewer than|up to) (?:1|one|a) years?", r"0\s*(?:-|–|to)\s*(?:1|one) years?"), None),
+    ("students welcome", _rx(r"(?:LLB|LLM|LPC|SQE\d?|GDL|PGDL|law) (?:students?|graduates?|candidates?)(?: are)? "
+                             r"(?:welcome|encouraged|considered|invited)",
+                             r"students (?:are )?welcome"), None),
+    ("law graduate", _rx(r"(?:law|LLB|LLM|recent) graduates?"), MANAGER_BEFORE_RE),
+    ("graduate", _rx(r"graduates?"), MANAGER_BEFORE_RE),
+    ("entry level", _rx(r"entry[- ]level"), None),
+    ("junior", _rx(r"junior"), COLLEAGUE_BEFORE_RE),
+    ("trainee", _rx(r"trainees?"), COLLEAGUE_BEFORE_RE),
+]
+
+# Words that turn a stated requirement into a nice-to-have ("would be advantageous").
+SOFT_AFTER_RE = re.compile(r"preferab|desirab|advantage|beneficial|bonus|ideal(?:ly)?\b|helpful|a plus|not (?:essential|required|necessary)"
+                           r"|welcome|looked upon favourably|considered", re.IGNORECASE)
+SOFT_BEFORE_RE = re.compile(r"(?:ideally|preferably|would be|any|no|not|without|some|as well as|gain\w*|build\w*|develop\w*|offer\w*)"
+                            r"\s+(?:[\w:]+\s+){0,2}$", re.IGNORECASE)
+_ROLE = (r"(?:paralegals?|solicitors?|lawyers?|conveyancers?|fee[- ]earners?|"
+         r"legal (?:assistants?|secretar(?:y|ies)|executives?|officers?|professionals?|advis[eo]rs?))")
+
+EXPERIENCE_SIGNALS = [
+    # (label, pattern, guard on the preceding text that cancels the match)
+    ("proven experience", _rx(r"proven (?:\w+ ){0,2}experience", r"demonstrable (?:\w+ ){0,2}experience as an? paralegal"), None),
+    # "an experienced Family Paralegal", "seeking experienced paralegals" -- but not
+    # "working alongside experienced paralegals", which describes the team.
+    ("experienced paralegal", _rx(r"(?:an?|seeking|recruit|hire|for|and) (?:highly[- ])?experienced (?:[\w&/-]+ ){0,3}" + _ROLE,
+                                  r"experienced paralegals?"), LEARN_FROM_BEFORE_RE),
+    ("previous experience", _rx(r"(?:previous|prior|recent|extensive|significant|substantial|solid) "
+                                r"(?:[\w&/-]+ ){0,4}experience (?:as|working|in|within|of|is (?:essential|required))",
+                                r"experience (?:is )?(?:required|essential|necessary)",
+                                r"must have (?:previous |prior )?(?:[\w&/-]+ ){0,3}experience"), SOFT_BEFORE_RE),
+]
+SENIOR_TITLE_RE = _rx(r"senior paralegal", r"experienced (?:[\w&/-]+ ){0,3}" + _ROLE)
+
+
+def _guarded_search(pattern: re.Pattern, guard: re.Pattern | None, text: str, soft_check: bool = False) -> str | None:
+    for m in pattern.finditer(text):
+        if guard and guard.search(text[max(0, m.start() - 60):m.start()]):
+            continue
+        if soft_check:
+            clause = re.split(r"[.;•*\n]|\s-\s", text[m.end():m.end() + 80], maxsplit=1)[0]
+            if SOFT_AFTER_RE.search(clause):
+                continue
+        return m.group(0)
+    return None
+
+
+def classify_experience(job: dict) -> tuple[str, str]:
+    """Return (experience level, evidence phrase) from the title and description.
+
+    Any stated requirement wins over graduate wording, so "law graduate preferred,
+    2+ years' experience" is "Experience required".
+    """
+    title = job.get("title") or ""
+    text = f"{title}. {job.get('description') or ''}"
+
+    phrase = requires_experience(text, min_years=1)
+    if phrase:
+        return EXPERIENCE_REQUIRED, phrase
+    if SENIOR_TITLE_RE.search(title):
+        return EXPERIENCE_REQUIRED, SENIOR_TITLE_RE.search(title).group(0)
+    for _label, pattern, guard in EXPERIENCE_SIGNALS:
+        found = _guarded_search(pattern, guard, text, soft_check=True)
+        if found:
+            return EXPERIENCE_REQUIRED, found
+    for years, found in year_requirements(text):
+        if years < 1:
+            return EXPERIENCE_GRADUATE, found
+    for _label, pattern, guard in GRADUATE_SIGNALS:
+        found = _guarded_search(pattern, guard, text)
+        if found:
+            return EXPERIENCE_GRADUATE, found
+    return EXPERIENCE_NOT_STATED, ""
 
 
 def matched_labels(terms: dict[str, re.Pattern], text: str) -> list[str]:
@@ -461,6 +586,7 @@ def enrich(job: dict) -> dict:
     job["hours"] = working_hours(job)
     job["practice_area"] = practice_area(job)
     job["salary"] = format_salary(job.get("salary_min"), job.get("salary_max"), job.get("salary_estimated", False))
+    job["experience_level"], job["experience_evidence"] = classify_experience(job)
     job.update(score_job(job))
     return job
 
@@ -484,14 +610,13 @@ def fingerprint(job: dict) -> str:
 
 def load_store() -> dict:
     if DATA_FILE.exists():
-        try:
-            with DATA_FILE.open(encoding="utf-8") as fh:
-                store = json.load(fh)
-            store.setdefault("jobs", [])
-            store.setdefault("meta", {})
-            return store
-        except (OSError, json.JSONDecodeError):
-            log.exception("Could not read %s; starting fresh", DATA_FILE)
+        # A corrupt file (e.g. merge-conflict markers) must stop the run rather than
+        # silently wiping every job's first_seen history.
+        with DATA_FILE.open(encoding="utf-8") as fh:
+            store = json.load(fh)
+        store.setdefault("jobs", [])
+        store.setdefault("meta", {})
+        return store
     return {"meta": {}, "jobs": []}
 
 
