@@ -2,6 +2,82 @@
  "jobs": [
   {
    "category": "Legal Jobs",
+   "company": "Legora",
+   "contract_raw": "",
+   "contract_type": "Not specified",
+   "description": "About Us Legora is redefining how legal work gets done. Not built for lawyers, built with them. We work alongside the world’s best legal teams, who expect excellence, precision, and speed, and we hold ourselves to the same bar. Our AI-native workspace lets legal professionals move faster, think more clearly, and operate with sharper precision. By analysing thousands of documents in minutes and powering end-to-end workflows, we cut through complexity, teams can focus on what matters: judgment, s…",
+   "experience_evidence": "",
+   "experience_level": "Not stated",
+   "expires": null,
+   "fingerprint": "engagement associate|legora",
+   "first_seen": "2026-11-07T13:15:36Z",
+   "hours": "Full-time",
+   "hours_raw": "Full-time",
+   "id": "adzuna:5956686786",
+   "ids": [
+    "adzuna:5956686786"
+   ],
+   "last_seen": "2026-11-07T13:15:36Z",
+   "links": {
+    "Adzuna": "https://www.adzuna.co.uk/jobs/details/5956686786?utm_medium=api&utm_source=09275c04"
+   },
+   "location": "London, UK",
+   "policy_focus": false,
+   "posted": "2026-11-07",
+   "practice_area": "General / Not specified",
+   "salary": "£60,290 (est.)",
+   "salary_estimated": true,
+   "salary_max": 60289.67,
+   "salary_min": 60289.67,
+   "score": 3,
+   "score_reason": "Base 3; no strong signals either way",
+   "source": "Adzuna",
+   "sources": [
+    "Adzuna"
+   ],
+   "title": "Engagement Associate",
+   "url": "https://www.adzuna.co.uk/jobs/details/5956686786?utm_medium=api&utm_source=09275c04"
+  },
+  {
+   "category": "Legal Jobs",
+   "company": "Burberry",
+   "contract_raw": "contract",
+   "contract_type": "Contract",
+   "description": "London | 12-month Fixed-Term Contract Introduction At Burberry, we believe creativity opens spaces. Our purpose is to unlock the power of imagination to push boundaries and open new possibilities for our people, our customers and our communities. This is the core belief that has guided Burberry since it was founded in 1856 and is central to how we operate as a company today. We aim to provide an environment for creative minds from different backgrounds to thrive, bringing a wide range of skills…",
+   "experience_evidence": "",
+   "experience_level": "Not stated",
+   "expires": null,
+   "fingerprint": "real estate paralegal|burberry",
+   "first_seen": "2026-11-07T13:15:36Z",
+   "hours": "",
+   "hours_raw": "",
+   "id": "adzuna:5956634163",
+   "ids": [
+    "adzuna:5956634163"
+   ],
+   "last_seen": "2026-11-07T13:15:36Z",
+   "links": {
+    "Adzuna": "https://www.adzuna.co.uk/jobs/details/5956634163?utm_medium=api&utm_source=09275c04"
+   },
+   "location": "London, UK",
+   "policy_focus": false,
+   "posted": "2026-11-07",
+   "practice_area": "Property / Real Estate",
+   "salary": "£42,605 (est.)",
+   "salary_estimated": true,
+   "salary_max": 42604.97,
+   "salary_min": 42604.97,
+   "score": 4,
+   "score_reason": "Base 3; +1 career-friendly (temporary)",
+   "source": "Adzuna",
+   "sources": [
+    "Adzuna"
+   ],
+   "title": "Real Estate Paralegal",
+   "url": "https://www.adzuna.co.uk/jobs/details/5956634163?utm_medium=api&utm_source=09275c04"
+  },
+  {
+   "category": "Legal Jobs",
    "company": "Puro Associates",
    "contract_raw": "permanent",
    "contract_type": "Permanent",
@@ -17,7 +93,7 @@
    "ids": [
     "adzuna:5956299624"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5956299624?utm_medium=api&utm_source=09275c04"
    },
@@ -55,7 +131,7 @@
    "ids": [
     "adzuna:5956298797"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5956298797?utm_medium=api&utm_source=09275c04"
    },
@@ -93,7 +169,7 @@
    "ids": [
     "adzuna:5956291428"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5956291428?utm_medium=api&utm_source=09275c04"
    },
@@ -131,7 +207,7 @@
    "ids": [
     "adzuna:5956273575"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5956273575?utm_medium=api&utm_source=09275c04"
    },
@@ -169,7 +245,7 @@
    "ids": [
     "adzuna:5956273571"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5956273571?utm_medium=api&utm_source=09275c04"
    },
@@ -207,7 +283,7 @@
    "ids": [
     "reed:57541023"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/complex-injury-paralegal/57541023"
    },
@@ -245,7 +321,7 @@
    "ids": [
     "adzuna:5955911696"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5955911696?utm_medium=api&utm_source=09275c04"
    },
@@ -284,9 +360,9 @@
     "adzuna:5955858228",
     "adzuna:5956273527"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5955858228?se=ygpS83Ha8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=82E8EB5491929EA9C73F83CED59C6C01AEDA4D59"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5955858228?se=MqDyVa3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=82E8EB5491929EA9C73F83CED59C6C01AEDA4D59"
    },
    "location": "The City, Central London",
    "policy_focus": false,
@@ -303,7 +379,7 @@
     "Adzuna"
    ],
    "title": "Employment Associate (5 PQE) London",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5955858228?se=ygpS83Ha8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=82E8EB5491929EA9C73F83CED59C6C01AEDA4D59"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5955858228?se=MqDyVa3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=82E8EB5491929EA9C73F83CED59C6C01AEDA4D59"
   },
   {
    "category": "Legal Jobs",
@@ -322,9 +398,9 @@
    "ids": [
     "adzuna:5955857974"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5955857974?se=ygpS83Ha8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=76C6CDFD8F7B503305D7EB91702815E4AE4E14B1"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5955857974?se=MqDyVa3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=76C6CDFD8F7B503305D7EB91702815E4AE4E14B1"
    },
    "location": "Westminster, South West London",
    "policy_focus": false,
@@ -341,7 +417,7 @@
     "Adzuna"
    ],
    "title": "Locum Education Law Specialist",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5955857974?se=ygpS83Ha8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=76C6CDFD8F7B503305D7EB91702815E4AE4E14B1"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5955857974?se=MqDyVa3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=76C6CDFD8F7B503305D7EB91702815E4AE4E14B1"
   },
   {
    "category": "",
@@ -360,7 +436,7 @@
    "ids": [
     "reed:57540380"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/paralegal/57540380"
    },
@@ -398,7 +474,7 @@
    "ids": [
     "reed:57538733"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/junior-litigation-lawyer-temporary/57538733"
    },
@@ -436,7 +512,7 @@
    "ids": [
     "reed:57537825"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/patent-records-administrator-to-early-40s--12-month-contract/57537825"
    },
@@ -472,11 +548,12 @@
    "hours_raw": "Part-time",
    "id": "adzuna:5955534139",
    "ids": [
-    "adzuna:5955534139"
+    "adzuna:5955534139",
+    "adzuna:5956690809"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5955534139?se=ygpS83Ha8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=06692A9B3323456005F389D743AA9D71A66A0C8A"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5955534139?se=MqDyVa3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=06692A9B3323456005F389D743AA9D71A66A0C8A"
    },
    "location": "London, UK",
    "policy_focus": false,
@@ -493,7 +570,7 @@
     "Adzuna"
    ],
    "title": "Temporary Junior Litigation Lawyer",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5955534139?se=ygpS83Ha8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=06692A9B3323456005F389D743AA9D71A66A0C8A"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5955534139?se=MqDyVa3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=06692A9B3323456005F389D743AA9D71A66A0C8A"
   },
   {
    "category": "HR & Recruitment Jobs",
@@ -512,7 +589,7 @@
    "ids": [
     "adzuna:5955438266"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5955438266?utm_medium=api&utm_source=09275c04"
    },
@@ -550,7 +627,7 @@
    "ids": [
     "adzuna:5955436640"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5955436640?utm_medium=api&utm_source=09275c04"
    },
@@ -588,7 +665,7 @@
    "ids": [
     "adzuna:5955434243"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5955434243?utm_medium=api&utm_source=09275c04"
    },
@@ -627,9 +704,9 @@
     "adzuna:5946136066",
     "adzuna:5955870795"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5955870795?se=ygpS83Ha8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=0DB70114DA7506EB8FA561DA1D68857484089C18"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5955870795?se=MqDyVa3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=0DB70114DA7506EB8FA561DA1D68857484089C18"
    },
    "location": "Sutton, London",
    "policy_focus": false,
@@ -646,7 +723,7 @@
     "Adzuna"
    ],
    "title": "Legal Administrator",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5955870795?se=ygpS83Ha8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=0DB70114DA7506EB8FA561DA1D68857484089C18"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5955870795?se=MqDyVa3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=0DB70114DA7506EB8FA561DA1D68857484089C18"
   },
   {
    "category": "",
@@ -666,7 +743,7 @@
     "reed:57506064",
     "reed:57538975"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/legal-administrator/57538975"
    },
@@ -704,9 +781,9 @@
    "ids": [
     "adzuna:5954682741"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5954682741?se=ygpS83Ha8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=3B52BFA460AF23798FF320E982ABC4EAA356C37D"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5954682741?se=MqDyVa3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=3B52BFA460AF23798FF320E982ABC4EAA356C37D"
    },
    "location": "The City, Central London",
    "policy_focus": false,
@@ -723,7 +800,7 @@
     "Adzuna"
    ],
    "title": "Assistant Underwriter - Legal Indemnity",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5954682741?se=ygpS83Ha8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=3B52BFA460AF23798FF320E982ABC4EAA356C37D"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5954682741?se=MqDyVa3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=3B52BFA460AF23798FF320E982ABC4EAA356C37D"
   },
   {
    "category": "IT Jobs",
@@ -743,9 +820,9 @@
     "reed:57532979",
     "adzuna:5955857641"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5955857641?se=ygpS83Ha8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=19CDA3C7DDE92085389EB6A91ACCB4E653BAAF4E",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5955857641?se=MqDyVa3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=19CDA3C7DDE92085389EB6A91ACCB4E653BAAF4E",
     "Reed": "https://www.reed.co.uk/jobs/data-privacy-paralegal/57532979"
    },
    "location": "London",
@@ -784,9 +861,9 @@
     "reed:57533828",
     "adzuna:5955857430"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5955857430?se=ygpS83Ha8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=2EB391DB756A6C606C5D944EC081FE4477A42F89",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5955857430?se=MqDyVa3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=2EB391DB756A6C606C5D944EC081FE4477A42F89",
     "Reed": "https://www.reed.co.uk/jobs/real-estate-paralegal/57533828"
    },
    "location": "London",
@@ -810,8 +887,8 @@
   {
    "category": "Legal Jobs",
    "company": "Charalle Group",
-   "contract_raw": "",
-   "contract_type": "Not specified",
+   "contract_raw": "contract",
+   "contract_type": "Contract",
    "description": "We are seeking a highly experienced and motivated Senior Crime Paralegal with Police Station Accreditation to join this established Crime Department within this established Law firm based in Kensington. You will be Reporting directly to the Criminal Solicitor, you will play a key role in supporting solicitors on complex criminal matters while independently undertaking police station attendances and managing your own caseload of criminal defence matters where appropriate. This role is ideally su…",
    "experience_evidence": "Senior Paralegal",
    "experience_level": "Experience required",
@@ -822,9 +899,10 @@
    "hours_raw": "",
    "id": "adzuna:5954448007",
    "ids": [
-    "adzuna:5954448007"
+    "adzuna:5954448007",
+    "adzuna:5956629105"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5954448007?utm_medium=api&utm_source=09275c04"
    },
@@ -862,7 +940,7 @@
    "ids": [
     "adzuna:5954047421"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5954047421?utm_medium=api&utm_source=09275c04"
    },
@@ -900,7 +978,7 @@
    "ids": [
     "adzuna:5954040711"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5954040711?utm_medium=api&utm_source=09275c04"
    },
@@ -938,7 +1016,7 @@
    "ids": [
     "adzuna:5954030236"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5954030236?utm_medium=api&utm_source=09275c04"
    },
@@ -976,7 +1054,7 @@
    "ids": [
     "adzuna:5954026710"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5954026710?utm_medium=api&utm_source=09275c04"
    },
@@ -1014,7 +1092,7 @@
    "ids": [
     "adzuna:5954026354"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5954026354?utm_medium=api&utm_source=09275c04"
    },
@@ -1052,7 +1130,7 @@
    "ids": [
     "adzuna:5954024669"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5954024669?utm_medium=api&utm_source=09275c04"
    },
@@ -1090,7 +1168,7 @@
    "ids": [
     "adzuna:5953999969"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5953999969?utm_medium=api&utm_source=09275c04"
    },
@@ -1129,9 +1207,9 @@
     "reed:57532341",
     "adzuna:5954107002"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5954107002?se=ygpS83Ha8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=14020CBB36FC1D5A1B18D067BB01E4AD51EFB228",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5954107002?se=MqDyVa3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=14020CBB36FC1D5A1B18D067BB01E4AD51EFB228",
     "Reed": "https://www.reed.co.uk/jobs/white-collar-crime-paralegal/57532341"
    },
    "location": "London",
@@ -1170,7 +1248,7 @@
     "adzuna:5953564661",
     "adzuna:5955447068"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5953564661?utm_medium=api&utm_source=09275c04"
    },
@@ -1208,7 +1286,7 @@
    "ids": [
     "adzuna:5953563475"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5953563475?utm_medium=api&utm_source=09275c04"
    },
@@ -1248,9 +1326,9 @@
     "reed:57535540",
     "adzuna:5955858274"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5955858274?se=ygpS83Ha8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=689C0A31A7CE1561C21679A1FC0FE6EB951E7D77",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5955858274?se=MqDyVa3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=689C0A31A7CE1561C21679A1FC0FE6EB951E7D77",
     "Reed": "https://www.reed.co.uk/jobs/litigation-paralegal/57535540"
    },
    "location": "London",
@@ -1288,7 +1366,7 @@
    "ids": [
     "adzuna:5952801399"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5952801399?utm_medium=api&utm_source=09275c04"
    },
@@ -1326,7 +1404,7 @@
    "ids": [
     "adzuna:5952799750"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5952799750?utm_medium=api&utm_source=09275c04"
    },
@@ -1364,7 +1442,7 @@
    "ids": [
     "adzuna:5952797251"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5952797251?utm_medium=api&utm_source=09275c04"
    },
@@ -1402,7 +1480,7 @@
    "ids": [
     "reed:57531752"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/graduate-researcher/57531752"
    },
@@ -1441,9 +1519,9 @@
     "reed:57523743",
     "adzuna:5954107049"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5954107049?se=ygpS83Ha8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=3209D259F19FE96E5B00F07959D77A160E186680",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5954107049?se=MqDyVa3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=3209D259F19FE96E5B00F07959D77A160E186680",
     "Reed": "https://www.reed.co.uk/jobs/immigration-paralegal/57523743"
    },
    "location": "London",
@@ -1483,7 +1561,7 @@
     "adzuna:5953054696",
     "adzuna:5954107189"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5953054696?utm_medium=api&utm_source=09275c04",
     "Reed": "https://www.reed.co.uk/jobs/commercial-litigation-paralegal/57523440"
@@ -1526,9 +1604,9 @@
     "adzuna:5954107140",
     "adzuna:5954107040"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5954107040?se=ygpS83Ha8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=694D4C69D8A0F254B1DCE78811F7A1F45259435A",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5954107040?se=MqDyVa3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=694D4C69D8A0F254B1DCE78811F7A1F45259435A",
     "Reed": "https://www.reed.co.uk/jobs/international-arbitration-paralegal/57523775"
    },
    "location": "London",
@@ -1567,9 +1645,9 @@
     "reed:57528159",
     "adzuna:5953391943"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5953391943?se=ygpS83Ha8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=9AC31D3507249539679B2816A2DBC7EA936D3B8F",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5953391943?se=MqDyVa3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=9AC31D3507249539679B2816A2DBC7EA936D3B8F",
     "Reed": "https://www.reed.co.uk/jobs/legal-manager/57528159"
    },
    "location": "London",
@@ -1607,7 +1685,7 @@
    "ids": [
     "adzuna:5953252165"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5953252165?utm_medium=api&utm_source=09275c04"
    },
@@ -1646,7 +1724,7 @@
     "adzuna:5953112861",
     "adzuna:5954633783"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5953112861?utm_medium=api&utm_source=09275c04"
    },
@@ -1684,7 +1762,7 @@
    "ids": [
     "adzuna:5953054232"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5953054232?utm_medium=api&utm_source=09275c04"
    },
@@ -1722,7 +1800,7 @@
    "ids": [
     "adzuna:5953054234"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5953054234?utm_medium=api&utm_source=09275c04"
    },
@@ -1760,7 +1838,7 @@
    "ids": [
     "adzuna:5952938048"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5952938048?utm_medium=api&utm_source=09275c04"
    },
@@ -1798,9 +1876,9 @@
    "ids": [
     "adzuna:5952836248"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5952836248?se=ygpS83Ha8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=D6E0B96D9EF82BA512358BF442D95A82FAA25A7D"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5952836248?se=MqDyVa3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=D6E0B96D9EF82BA512358BF442D95A82FAA25A7D"
    },
    "location": "London, UK",
    "policy_focus": true,
@@ -1817,7 +1895,7 @@
     "Adzuna"
    ],
    "title": "Contracts & Major Projects Lawyer",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5952836248?se=ygpS83Ha8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=D6E0B96D9EF82BA512358BF442D95A82FAA25A7D"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5952836248?se=MqDyVa3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=D6E0B96D9EF82BA512358BF442D95A82FAA25A7D"
   },
   {
    "category": "Legal Jobs",
@@ -1836,7 +1914,7 @@
    "ids": [
     "adzuna:5952802635"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5952802635?utm_medium=api&utm_source=09275c04"
    },
@@ -1874,7 +1952,7 @@
    "ids": [
     "adzuna:5952793699"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5952793699?utm_medium=api&utm_source=09275c04"
    },
@@ -1912,7 +1990,7 @@
    "ids": [
     "adzuna:5952283657"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5952283657?utm_medium=api&utm_source=09275c04"
    },
@@ -1950,7 +2028,7 @@
    "ids": [
     "adzuna:5952283671"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5952283671?utm_medium=api&utm_source=09275c04"
    },
@@ -1988,7 +2066,7 @@
    "ids": [
     "adzuna:5952283635"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5952283635?utm_medium=api&utm_source=09275c04"
    },
@@ -2026,7 +2104,7 @@
    "ids": [
     "adzuna:5952283645"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5952283645?utm_medium=api&utm_source=09275c04"
    },
@@ -2064,7 +2142,7 @@
    "ids": [
     "adzuna:5952334042"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5952334042?utm_medium=api&utm_source=09275c04"
    },
@@ -2102,7 +2180,7 @@
    "ids": [
     "adzuna:5952258204"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5952258204?utm_medium=api&utm_source=09275c04"
    },
@@ -2140,7 +2218,7 @@
    "ids": [
     "adzuna:5952183634"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5952183634?utm_medium=api&utm_source=09275c04"
    },
@@ -2180,9 +2258,9 @@
     "adzuna:5952836254",
     "adzuna:5951761319"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5951761319?se=tiTR9XHa8RG1ZJq72_UCPA&utm_medium=api&utm_source=09275c04&v=688A09B3FBB0C20BA220E762F6FAB6D833817D96",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5951761319?se=-MpKWK3a8RGD5Iv7NVeOtg&utm_medium=api&utm_source=09275c04&v=688A09B3FBB0C20BA220E762F6FAB6D833817D96",
     "Reed": "https://www.reed.co.uk/jobs/property-litigation-associate-solicitor/57520281"
    },
    "location": "EC2M7DT",
@@ -2220,7 +2298,7 @@
    "ids": [
     "adzuna:5952029914"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5952029914?utm_medium=api&utm_source=09275c04"
    },
@@ -2258,7 +2336,7 @@
    "ids": [
     "adzuna:5952029900"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5952029900?utm_medium=api&utm_source=09275c04"
    },
@@ -2296,7 +2374,7 @@
    "ids": [
     "adzuna:5951973385"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5951973385?utm_medium=api&utm_source=09275c04"
    },
@@ -2335,9 +2413,9 @@
     "reed:57520445",
     "adzuna:5951999923"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5951999923?se=tiTR9XHa8RG1ZJq72_UCPA&utm_medium=api&utm_source=09275c04&v=3B127C56896F028BB5DDED556BA878C67CD9C5CF",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5951999923?se=-MpKWK3a8RGD5Iv7NVeOtg&utm_medium=api&utm_source=09275c04&v=3B127C56896F028BB5DDED556BA878C67CD9C5CF",
     "Reed": "https://www.reed.co.uk/jobs/commercial-litigation-paralegal/57520445"
    },
    "location": "EC2M1JJ",
@@ -2376,9 +2454,9 @@
     "reed:57519950",
     "adzuna:5952836290"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5952836290?se=ygpS83Ha8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=A827279CB99B9F97FC8C6957E5FC132D5E401CBF",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5952836290?se=MqDyVa3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=A827279CB99B9F97FC8C6957E5FC132D5E401CBF",
     "Reed": "https://www.reed.co.uk/jobs/commercial-litigation-paralegal/57519950"
    },
    "location": "London",
@@ -2416,7 +2494,7 @@
    "ids": [
     "reed:57519939"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/paralegal-claims-handler/57519939"
    },
@@ -2454,7 +2532,7 @@
    "ids": [
     "reed:57521090"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/commercial-litigation-paralegal-dispute-resolution/57521090"
    },
@@ -2492,7 +2570,7 @@
    "ids": [
     "reed:57520004"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/senior-legal-technologist/57520004"
    },
@@ -2530,7 +2608,7 @@
    "ids": [
     "reed:57520912"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/conveyancer/57520912"
    },
@@ -2568,7 +2646,7 @@
    "ids": [
     "adzuna:5951939187"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5951939187?utm_medium=api&utm_source=09275c04"
    },
@@ -2606,7 +2684,7 @@
    "ids": [
     "adzuna:5951607095"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5951607095?utm_medium=api&utm_source=09275c04"
    },
@@ -2644,7 +2722,7 @@
    "ids": [
     "reed:57515807"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/paralegal/57515807"
    },
@@ -2682,7 +2760,7 @@
    "ids": [
     "reed:57517206"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/conveyancing-paralegal/57517206"
    },
@@ -2720,7 +2798,7 @@
    "ids": [
     "adzuna:5950934817"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5950934817?utm_medium=api&utm_source=09275c04"
    },
@@ -2758,9 +2836,9 @@
    "ids": [
     "adzuna:5950910240"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5950910240?se=tiTR9XHa8RG1ZJq72_UCPA&utm_medium=api&utm_source=09275c04&v=97D1ADD2583D5245503892756FAFA40F29F855E3"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5950910240?se=-MpKWK3a8RGD5Iv7NVeOtg&utm_medium=api&utm_source=09275c04&v=97D1ADD2583D5245503892756FAFA40F29F855E3"
    },
    "location": "Farringdon, Central London",
    "policy_focus": false,
@@ -2777,7 +2855,7 @@
     "Adzuna"
    ],
    "title": "Paralegal",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5950910240?se=tiTR9XHa8RG1ZJq72_UCPA&utm_medium=api&utm_source=09275c04&v=97D1ADD2583D5245503892756FAFA40F29F855E3"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5950910240?se=-MpKWK3a8RGD5Iv7NVeOtg&utm_medium=api&utm_source=09275c04&v=97D1ADD2583D5245503892756FAFA40F29F855E3"
   },
   {
    "category": "Legal Jobs",
@@ -2798,9 +2876,9 @@
     "adzuna:5950628077",
     "adzuna:5951565392"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5950628077?se=tiTR9XHa8RG1ZJq72_UCPA&utm_medium=api&utm_source=09275c04&v=E21E6A6B9921EDC95F414352F37324AE8EF4CF2A",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5950628077?se=-MpKWK3a8RGD5Iv7NVeOtg&utm_medium=api&utm_source=09275c04&v=E21E6A6B9921EDC95F414352F37324AE8EF4CF2A",
     "Reed": "https://www.reed.co.uk/jobs/conveyancing-paralegal/57513412"
    },
    "location": "E174QH",
@@ -2876,9 +2954,9 @@
    "ids": [
     "adzuna:5948864174"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5948864174?se=tiTR9XHa8RG1ZJq72_UCPA&utm_medium=api&utm_source=09275c04&v=A64782686BA852DA3DC0EB4057EB84019F83FD60"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5948864174?se=-MpKWK3a8RGD5Iv7NVeOtg&utm_medium=api&utm_source=09275c04&v=A64782686BA852DA3DC0EB4057EB84019F83FD60"
    },
    "location": "London, UK",
    "policy_focus": false,
@@ -2895,7 +2973,7 @@
     "Adzuna"
    ],
    "title": "Paralegal – Serious Injury (London Cheapside)",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5948864174?se=tiTR9XHa8RG1ZJq72_UCPA&utm_medium=api&utm_source=09275c04&v=A64782686BA852DA3DC0EB4057EB84019F83FD60"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5948864174?se=-MpKWK3a8RGD5Iv7NVeOtg&utm_medium=api&utm_source=09275c04&v=A64782686BA852DA3DC0EB4057EB84019F83FD60"
   },
   {
    "category": "Legal Jobs",
@@ -2990,9 +3068,9 @@
    "ids": [
     "adzuna:5948635177"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5948635177?se=tiTR9XHa8RG1ZJq72_UCPA&utm_medium=api&utm_source=09275c04&v=F2F811A5320F6FD5EDAEFBDD7A8FFCCBFC2EA7B9"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5948635177?se=-MpKWK3a8RGD5Iv7NVeOtg&utm_medium=api&utm_source=09275c04&v=F2F811A5320F6FD5EDAEFBDD7A8FFCCBFC2EA7B9"
    },
    "location": "London, UK",
    "policy_focus": false,
@@ -3009,7 +3087,7 @@
     "Adzuna"
    ],
    "title": "Contract Lawyers (Litigation Document Review)",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5948635177?se=tiTR9XHa8RG1ZJq72_UCPA&utm_medium=api&utm_source=09275c04&v=F2F811A5320F6FD5EDAEFBDD7A8FFCCBFC2EA7B9"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5948635177?se=-MpKWK3a8RGD5Iv7NVeOtg&utm_medium=api&utm_source=09275c04&v=F2F811A5320F6FD5EDAEFBDD7A8FFCCBFC2EA7B9"
   },
   {
    "category": "IT Jobs",
@@ -3028,7 +3106,7 @@
    "ids": [
     "adzuna:5948566907"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5948566907?utm_medium=api&utm_source=09275c04"
    },
@@ -3066,7 +3144,7 @@
    "ids": [
     "adzuna:5947806379"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5947806379?utm_medium=api&utm_source=09275c04"
    },
@@ -3104,7 +3182,7 @@
    "ids": [
     "adzuna:5947394663"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5947394663?utm_medium=api&utm_source=09275c04"
    },
@@ -3145,9 +3223,9 @@
     "reed:57508495",
     "adzuna:5935504421"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5935504421?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=187F5EB2C9AA17660A80B1E0B60F5420EC3EAA3B",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5935504421?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=187F5EB2C9AA17660A80B1E0B60F5420EC3EAA3B",
     "Reed": "https://www.reed.co.uk/jobs/graduate-recruitment-consultant/57508495"
    },
    "location": "London",
@@ -3185,7 +3263,7 @@
    "ids": [
     "adzuna:5946679784"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5946679784?utm_medium=api&utm_source=09275c04"
    },
@@ -3223,7 +3301,7 @@
    "ids": [
     "reed:57508719"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/conveyancing-paralegal/57508719"
    },
@@ -3261,7 +3339,7 @@
    "ids": [
     "reed:57508260"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/funds-legal-assistant/57508260"
    },
@@ -3299,9 +3377,9 @@
    "ids": [
     "adzuna:5946993297"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5946993297?se=tiTR9XHa8RG1ZJq72_UCPA&utm_medium=api&utm_source=09275c04&v=E792DCE3A799CF1BB4DF6B4FA6F69C0769AED8B0"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5946993297?se=-MpKWK3a8RGD5Iv7NVeOtg&utm_medium=api&utm_source=09275c04&v=E792DCE3A799CF1BB4DF6B4FA6F69C0769AED8B0"
    },
    "location": "Surbiton, London",
    "policy_focus": false,
@@ -3318,7 +3396,7 @@
     "Adzuna"
    ],
    "title": "Legal Assistant | Paralegal | Commercial Property Department",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5946993297?se=tiTR9XHa8RG1ZJq72_UCPA&utm_medium=api&utm_source=09275c04&v=E792DCE3A799CF1BB4DF6B4FA6F69C0769AED8B0"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5946993297?se=-MpKWK3a8RGD5Iv7NVeOtg&utm_medium=api&utm_source=09275c04&v=E792DCE3A799CF1BB4DF6B4FA6F69C0769AED8B0"
   },
   {
    "category": "",
@@ -3337,7 +3415,7 @@
    "ids": [
     "reed:57507758"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/patent-records-paralegal-london/57507758"
    },
@@ -3375,7 +3453,7 @@
    "ids": [
     "reed:57507515"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/legal-assistant--commercial-property-department/57507515"
    },
@@ -3413,7 +3491,7 @@
    "ids": [
     "reed:57507733"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/c45000-trade-mark-formalities-coordinator--london-hybrid/57507733"
    },
@@ -3451,7 +3529,7 @@
    "ids": [
     "adzuna:5946776193"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5946776193?utm_medium=api&utm_source=09275c04"
    },
@@ -3565,9 +3643,9 @@
    "ids": [
     "adzuna:5946684856"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5946684856?se=tiTR9XHa8RG1ZJq72_UCPA&utm_medium=api&utm_source=09275c04&v=396084B9A13CB9EF140BBB50A75A0049522F59E7"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5946684856?se=-MpKWK3a8RGD5Iv7NVeOtg&utm_medium=api&utm_source=09275c04&v=396084B9A13CB9EF140BBB50A75A0049522F59E7"
    },
    "location": "London, UK",
    "policy_focus": false,
@@ -3584,7 +3662,7 @@
     "Adzuna"
    ],
    "title": "Senior Financial Crime Analyst",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5946684856?se=tiTR9XHa8RG1ZJq72_UCPA&utm_medium=api&utm_source=09275c04&v=396084B9A13CB9EF140BBB50A75A0049522F59E7"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5946684856?se=-MpKWK3a8RGD5Iv7NVeOtg&utm_medium=api&utm_source=09275c04&v=396084B9A13CB9EF140BBB50A75A0049522F59E7"
   },
   {
    "category": "Legal Jobs",
@@ -3603,7 +3681,7 @@
    "ids": [
     "adzuna:5946683653"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5946683653?utm_medium=api&utm_source=09275c04"
    },
@@ -3679,7 +3757,7 @@
    "ids": [
     "adzuna:5946676054"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5946676054?utm_medium=api&utm_source=09275c04"
    },
@@ -3718,7 +3796,7 @@
     "adzuna:5946271780",
     "adzuna:5945451758"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5945451758?utm_medium=api&utm_source=09275c04"
    },
@@ -3756,7 +3834,7 @@
    "ids": [
     "reed:57506294"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/paralegal-property/57506294"
    },
@@ -3794,7 +3872,7 @@
    "ids": [
     "adzuna:5946065427"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5946065427?utm_medium=api&utm_source=09275c04"
    },
@@ -3832,9 +3910,9 @@
    "ids": [
     "adzuna:5945830903"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5945830903?se=tiTR9XHa8RG1ZJq72_UCPA&utm_medium=api&utm_source=09275c04&v=25933C6008D0956D8E256FA7014BEB596EB74D28"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5945830903?se=-MpKWK3a8RGD5Iv7NVeOtg&utm_medium=api&utm_source=09275c04&v=25933C6008D0956D8E256FA7014BEB596EB74D28"
    },
    "location": "Westminster, South West London",
    "policy_focus": false,
@@ -3851,7 +3929,7 @@
     "Adzuna"
    ],
    "title": "Criminal Solicitor",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5945830903?se=tiTR9XHa8RG1ZJq72_UCPA&utm_medium=api&utm_source=09275c04&v=25933C6008D0956D8E256FA7014BEB596EB74D28"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5945830903?se=-MpKWK3a8RGD5Iv7NVeOtg&utm_medium=api&utm_source=09275c04&v=25933C6008D0956D8E256FA7014BEB596EB74D28"
   },
   {
    "category": "Legal Jobs",
@@ -3870,9 +3948,9 @@
    "ids": [
     "adzuna:5945830878"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5945830878?se=tiTR9XHa8RG1ZJq72_UCPA&utm_medium=api&utm_source=09275c04&v=7E70E5E55135D81869BCB13C95D0E9AE358C0E45"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5945830878?se=-MpKWK3a8RGD5Iv7NVeOtg&utm_medium=api&utm_source=09275c04&v=7E70E5E55135D81869BCB13C95D0E9AE358C0E45"
    },
    "location": "Waterloo, South East London",
    "policy_focus": false,
@@ -3889,7 +3967,7 @@
     "Adzuna"
    ],
    "title": "Conveyancing Solicitor",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5945830878?se=tiTR9XHa8RG1ZJq72_UCPA&utm_medium=api&utm_source=09275c04&v=7E70E5E55135D81869BCB13C95D0E9AE358C0E45"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5945830878?se=-MpKWK3a8RGD5Iv7NVeOtg&utm_medium=api&utm_source=09275c04&v=7E70E5E55135D81869BCB13C95D0E9AE358C0E45"
   },
   {
    "category": "IT Jobs",
@@ -3908,7 +3986,7 @@
    "ids": [
     "adzuna:5944213002"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5944213002?utm_medium=api&utm_source=09275c04"
    },
@@ -3946,7 +4024,7 @@
    "ids": [
     "reed:57502401"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/trainee-recruitment-consultant/57502401"
    },
@@ -3984,7 +4062,7 @@
    "ids": [
     "adzuna:5944928684"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5944928684?utm_medium=api&utm_source=09275c04"
    },
@@ -4024,9 +4102,9 @@
     "adzuna:5944892889",
     "adzuna:5945815367"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5944892889?se=tiTR9XHa8RG1ZJq72_UCPA&utm_medium=api&utm_source=09275c04&v=9FEC3B8AFD2196EDDE118497D09A4903265C01BF",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5944892889?se=-MpKWK3a8RGD5Iv7NVeOtg&utm_medium=api&utm_source=09275c04&v=9FEC3B8AFD2196EDDE118497D09A4903265C01BF",
     "Reed": "https://www.reed.co.uk/jobs/legal-intern-paralegal-internship/57502390"
    },
    "location": "SW1Y4QU",
@@ -4064,7 +4142,7 @@
    "ids": [
     "adzuna:5944773738"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5944773738?utm_medium=api&utm_source=09275c04"
    },
@@ -4103,9 +4181,9 @@
     "reed:57501883",
     "adzuna:5948635298"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5948635298?se=tiTR9XHa8RG1ZJq72_UCPA&utm_medium=api&utm_source=09275c04&v=780B19E07A19795FD65408494C36529C763DAFAE",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5948635298?se=-MpKWK3a8RGD5Iv7NVeOtg&utm_medium=api&utm_source=09275c04&v=780B19E07A19795FD65408494C36529C763DAFAE",
     "Reed": "https://www.reed.co.uk/jobs/international-arbitration-paralegal/57501883"
    },
    "location": "EC1M6HA",
@@ -4143,7 +4221,7 @@
    "ids": [
     "adzuna:5944404794"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5944404794?utm_medium=api&utm_source=09275c04"
    },
@@ -4219,7 +4297,7 @@
    "ids": [
     "adzuna:5944318849"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5944318849?utm_medium=api&utm_source=09275c04"
    },
@@ -4295,7 +4373,7 @@
    "ids": [
     "adzuna:5944229532"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5944229532?utm_medium=api&utm_source=09275c04"
    },
@@ -4373,7 +4451,7 @@
    "ids": [
     "adzuna:5943892401"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5943892401?utm_medium=api&utm_source=09275c04"
    },
@@ -4411,7 +4489,7 @@
    "ids": [
     "adzuna:5943892423"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5943892423?utm_medium=api&utm_source=09275c04"
    },
@@ -4449,7 +4527,7 @@
    "ids": [
     "adzuna:5943892354"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5943892354?utm_medium=api&utm_source=09275c04"
    },
@@ -4487,7 +4565,7 @@
    "ids": [
     "reed:57498500"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/conveyancing-secretary/57498500"
    },
@@ -4528,7 +4606,7 @@
     "reed:57496581",
     "reed:57496580"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/conveyancing-assistant-paralegal/57496582"
    },
@@ -4607,7 +4685,7 @@
    "ids": [
     "reed:57497192"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/hybrid-family-law-caseworker/57497192"
    },
@@ -4646,9 +4724,9 @@
     "reed:57496334",
     "adzuna:5948635272"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5948635272?se=tiTR9XHa8RG1ZJq72_UCPA&utm_medium=api&utm_source=09275c04&v=17FD66FC315FDBDBCB1C5239B11A887358805FC2",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5948635272?se=-MpKWK3a8RGD5Iv7NVeOtg&utm_medium=api&utm_source=09275c04&v=17FD66FC315FDBDBCB1C5239B11A887358805FC2",
     "Reed": "https://www.reed.co.uk/jobs/property-disputes-paralegal/57496334"
    },
    "location": "London",
@@ -4686,7 +4764,7 @@
    "ids": [
     "adzuna:5942889467"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5942889467?utm_medium=api&utm_source=09275c04"
    },
@@ -4724,7 +4802,7 @@
    "ids": [
     "adzuna:5942957412"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5942957412?utm_medium=api&utm_source=09275c04"
    },
@@ -4763,7 +4841,7 @@
     "reed:57495318",
     "reed:57495315"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/employment-solicitor/57495315"
    },
@@ -4801,7 +4879,7 @@
    "ids": [
     "reed:57495329"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/employment-lawyer/57495329"
    },
@@ -4839,7 +4917,7 @@
    "ids": [
     "reed:57494203"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/derivatives-paralegal/57494203"
    },
@@ -4877,7 +4955,7 @@
    "ids": [
     "reed:57492798"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/paralegal/57492798"
    },
@@ -4915,7 +4993,7 @@
    "ids": [
     "reed:57492725"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/conveyancing-paralegal/57492725"
    },
@@ -4953,7 +5031,7 @@
    "ids": [
     "reed:57492835"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/finance-paralegal-derivatives/57492835"
    },
@@ -4991,7 +5069,7 @@
    "ids": [
     "reed:57492357"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/transactional-executive/57492357"
    },
@@ -5069,7 +5147,7 @@
     "adzuna:5940484105",
     "adzuna:5939639580"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5939639580?utm_medium=api&utm_source=09275c04",
     "Reed": "https://www.reed.co.uk/jobs/criminal-solicitor/57489042"
@@ -5109,9 +5187,9 @@
    "ids": [
     "adzuna:5939263533"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5939263533?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=05504E8A033944CE1E570FFF12C2611D1CC3D5CE"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5939263533?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=05504E8A033944CE1E570FFF12C2611D1CC3D5CE"
    },
    "location": "Fenchurch St, Central London",
    "policy_focus": false,
@@ -5128,7 +5206,7 @@
     "Adzuna"
    ],
    "title": "Immigration Paralegal",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5939263533?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=05504E8A033944CE1E570FFF12C2611D1CC3D5CE"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5939263533?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=05504E8A033944CE1E570FFF12C2611D1CC3D5CE"
   },
   {
    "category": "Legal Jobs",
@@ -5147,9 +5225,9 @@
    "ids": [
     "adzuna:5939263530"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5939263530?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=96C2CB7E4E2E63A35112D6BA39C23E6556B429F0"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5939263530?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=96C2CB7E4E2E63A35112D6BA39C23E6556B429F0"
    },
    "location": "Fenchurch St, Central London",
    "policy_focus": true,
@@ -5166,7 +5244,7 @@
     "Adzuna"
    ],
    "title": "Public Law Paralegal",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5939263530?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=96C2CB7E4E2E63A35112D6BA39C23E6556B429F0"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5939263530?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=96C2CB7E4E2E63A35112D6BA39C23E6556B429F0"
   },
   {
    "category": "Legal Jobs",
@@ -5185,9 +5263,9 @@
    "ids": [
     "adzuna:5939263527"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5939263527?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=39AD790BD4C215B099B5DE481F906CC2BE359109"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5939263527?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=39AD790BD4C215B099B5DE481F906CC2BE359109"
    },
    "location": "Fenchurch St, Central London",
    "policy_focus": false,
@@ -5204,7 +5282,7 @@
     "Adzuna"
    ],
    "title": "Property Litigation Solicitor",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5939263527?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=39AD790BD4C215B099B5DE481F906CC2BE359109"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5939263527?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=39AD790BD4C215B099B5DE481F906CC2BE359109"
   },
   {
    "category": "Legal Jobs",
@@ -5224,9 +5302,9 @@
     "adzuna:5939263196",
     "adzuna:5912319666"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5939263196?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=FCE3E234183A06CAADA8464BC0DE04A73921DAEE"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5939263196?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=FCE3E234183A06CAADA8464BC0DE04A73921DAEE"
    },
    "location": "Fenchurch St, Central London",
    "policy_focus": true,
@@ -5243,7 +5321,7 @@
     "Adzuna"
    ],
    "title": "Housing Solicitor Director",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5939263196?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=FCE3E234183A06CAADA8464BC0DE04A73921DAEE"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5939263196?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=FCE3E234183A06CAADA8464BC0DE04A73921DAEE"
   },
   {
    "category": "Legal Jobs",
@@ -5303,9 +5381,9 @@
    "ids": [
     "adzuna:5939263198"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5939263198?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=1E1A5F7F4BDAE5A872F64FF33D1BEEB4C4D3B060"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5939263198?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=1E1A5F7F4BDAE5A872F64FF33D1BEEB4C4D3B060"
    },
    "location": "Fenchurch St, Central London",
    "policy_focus": false,
@@ -5322,7 +5400,7 @@
     "Adzuna"
    ],
    "title": "Children Law Solicitor Director",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5939263198?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=1E1A5F7F4BDAE5A872F64FF33D1BEEB4C4D3B060"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5939263198?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=1E1A5F7F4BDAE5A872F64FF33D1BEEB4C4D3B060"
   },
   {
    "category": "Legal Jobs",
@@ -5341,9 +5419,9 @@
    "ids": [
     "adzuna:5939263155"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5939263155?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=B5858388CCC91C658841A3BF3236A461FD4CE36B"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5939263155?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=B5858388CCC91C658841A3BF3236A461FD4CE36B"
    },
    "location": "Fenchurch St, Central London",
    "policy_focus": false,
@@ -5360,7 +5438,7 @@
     "Adzuna"
    ],
    "title": "Claims Against Public Authorities and Inquest Solicitor",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5939263155?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=B5858388CCC91C658841A3BF3236A461FD4CE36B"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5939263155?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=B5858388CCC91C658841A3BF3236A461FD4CE36B"
   },
   {
    "category": "Legal Jobs",
@@ -5379,9 +5457,9 @@
    "ids": [
     "adzuna:5939263107"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5939263107?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=F210DCFE51F111E59CDCB795DC1F30FE35104DD5"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5939263107?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=F210DCFE51F111E59CDCB795DC1F30FE35104DD5"
    },
    "location": "Fenchurch St, Central London",
    "policy_focus": false,
@@ -5398,7 +5476,7 @@
     "Adzuna"
    ],
    "title": "Immigration Solicitor - Supervisor",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5939263107?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=F210DCFE51F111E59CDCB795DC1F30FE35104DD5"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5939263107?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=F210DCFE51F111E59CDCB795DC1F30FE35104DD5"
   },
   {
    "category": "Legal Jobs",
@@ -5417,9 +5495,9 @@
    "ids": [
     "adzuna:5939263111"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5939263111?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=402CEF7F75751E92CCA5CE34A4BBA60B743CB1FD"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5939263111?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=402CEF7F75751E92CCA5CE34A4BBA60B743CB1FD"
    },
    "location": "Fenchurch St, Central London",
    "policy_focus": false,
@@ -5436,7 +5514,7 @@
     "Adzuna"
    ],
    "title": "Family Law Solicitor (3 PQE)",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5939263111?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=402CEF7F75751E92CCA5CE34A4BBA60B743CB1FD"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5939263111?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=402CEF7F75751E92CCA5CE34A4BBA60B743CB1FD"
   },
   {
    "category": "Legal Jobs",
@@ -5455,9 +5533,9 @@
    "ids": [
     "adzuna:5939263117"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5939263117?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=8C0851904569D4D3B1402D2A961C1DCA4882B025"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5939263117?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=8C0851904569D4D3B1402D2A961C1DCA4882B025"
    },
    "location": "Fenchurch St, Central London",
    "policy_focus": true,
@@ -5474,7 +5552,7 @@
     "Adzuna"
    ],
    "title": "Housing Solicitor - Newly Qualified (NQ) - City of London",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5939263117?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=8C0851904569D4D3B1402D2A961C1DCA4882B025"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5939263117?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=8C0851904569D4D3B1402D2A961C1DCA4882B025"
   },
   {
    "category": "Legal Jobs",
@@ -5493,9 +5571,9 @@
    "ids": [
     "adzuna:5939263127"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5939263127?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=51F6C51AFEA5AA2B93B4D123A8553995BAA8DBEA"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5939263127?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=51F6C51AFEA5AA2B93B4D123A8553995BAA8DBEA"
    },
    "location": "Fenchurch St, Central London",
    "policy_focus": true,
@@ -5512,7 +5590,7 @@
     "Adzuna"
    ],
    "title": "Public Law Solicitor",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5939263127?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=51F6C51AFEA5AA2B93B4D123A8553995BAA8DBEA"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5939263127?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=51F6C51AFEA5AA2B93B4D123A8553995BAA8DBEA"
   },
   {
    "category": "Legal Jobs",
@@ -5534,7 +5612,7 @@
     "adzuna:5939324824",
     "adzuna:5940484008"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5939324824?utm_medium=api&utm_source=09275c04",
     "Reed": "https://www.reed.co.uk/jobs/family-paralegal/57486527"
@@ -5612,7 +5690,7 @@
    "ids": [
     "adzuna:5939034782"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5939034782?utm_medium=api&utm_source=09275c04"
    },
@@ -5650,7 +5728,7 @@
    "ids": [
     "adzuna:5939034282"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5939034282?utm_medium=api&utm_source=09275c04"
    },
@@ -5765,7 +5843,7 @@
    "ids": [
     "adzuna:5937616237"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5937616237?utm_medium=api&utm_source=09275c04"
    },
@@ -5803,7 +5881,7 @@
    "ids": [
     "adzuna:5938275865"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5938275865?utm_medium=api&utm_source=09275c04"
    },
@@ -5841,7 +5919,7 @@
    "ids": [
     "adzuna:5937613818"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5937613818?utm_medium=api&utm_source=09275c04"
    },
@@ -5879,9 +5957,9 @@
    "ids": [
     "adzuna:5938360365"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5938360365?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=F2CA87308636DD4D97A6D787646EA256917DDAEE"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5938360365?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=F2CA87308636DD4D97A6D787646EA256917DDAEE"
    },
    "location": "Farringdon, Central London",
    "policy_focus": false,
@@ -5898,7 +5976,7 @@
     "Adzuna"
    ],
    "title": "To mid £40’s - Patent Records Paralegal (Contract) - London",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5938360365?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=F2CA87308636DD4D97A6D787646EA256917DDAEE"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5938360365?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=F2CA87308636DD4D97A6D787646EA256917DDAEE"
   },
   {
    "category": "",
@@ -5917,7 +5995,7 @@
    "ids": [
     "reed:57485813"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/to-mid-40s-patent-records-paralegal-contract-london/57485813"
    },
@@ -5993,9 +6071,9 @@
    "ids": [
     "adzuna:5938121608"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5938121608?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=6D9C700B1F4B8CB784B92551B0F8A3391BD81698"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5938121608?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=6D9C700B1F4B8CB784B92551B0F8A3391BD81698"
    },
    "location": "London, UK",
    "policy_focus": false,
@@ -6012,7 +6090,7 @@
     "Adzuna"
    ],
    "title": "Family Solicitor",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5938121608?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=6D9C700B1F4B8CB784B92551B0F8A3391BD81698"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5938121608?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=6D9C700B1F4B8CB784B92551B0F8A3391BD81698"
   },
   {
    "category": "",
@@ -6148,9 +6226,9 @@
    "ids": [
     "adzuna:5937906540"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5937906540?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=477569FE43380968AE56ECC5C358A038B69F92CB"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5937906540?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=477569FE43380968AE56ECC5C358A038B69F92CB"
    },
    "location": "Central London, London",
    "policy_focus": false,
@@ -6167,7 +6245,7 @@
     "Adzuna"
    ],
    "title": "Paralegal - Private Client / Court of Protection",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5937906540?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=477569FE43380968AE56ECC5C358A038B69F92CB"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5937906540?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=477569FE43380968AE56ECC5C358A038B69F92CB"
   },
   {
    "category": "IT Jobs",
@@ -6187,9 +6265,9 @@
     "reed:57483442",
     "adzuna:5939263541"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5939263541?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=88C9016E904A05E4BB29EAABFFAB355571EAFFE7",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5939263541?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=88C9016E904A05E4BB29EAABFFAB355571EAFFE7",
     "Reed": "https://www.reed.co.uk/jobs/knowledge-innovation-specialist-paralegal/57483442"
    },
    "location": "London",
@@ -6227,7 +6305,7 @@
    "ids": [
     "adzuna:5937659401"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5937659401?utm_medium=api&utm_source=09275c04"
    },
@@ -6265,7 +6343,7 @@
    "ids": [
     "adzuna:5937646282"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5937646282?utm_medium=api&utm_source=09275c04"
    },
@@ -6380,7 +6458,7 @@
     "reed:57473554",
     "reed:57485292"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/funds-paralegal/57485292"
    },
@@ -6456,7 +6534,7 @@
    "ids": [
     "reed:57480039"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/property-litigation-paralegal/57480039"
    },
@@ -6495,7 +6573,7 @@
     "reed:57479624",
     "adzuna:5938636416"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5938636416?utm_medium=api&utm_source=09275c04",
     "Reed": "https://www.reed.co.uk/jobs/criminal-solicitor/57479624"
@@ -6535,7 +6613,7 @@
    "ids": [
     "reed:57480217"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/criminal-solicitor/57480217"
    },
@@ -6573,9 +6651,9 @@
    "ids": [
     "adzuna:5936639361"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5936639361?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=4CF1A8744E6EE9A75BF068378C359065AC24E08F"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5936639361?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=4CF1A8744E6EE9A75BF068378C359065AC24E08F"
    },
    "location": "London, UK",
    "policy_focus": false,
@@ -6592,7 +6670,7 @@
     "Adzuna"
    ],
    "title": "Insolvency Litigation Solicitor 4pqe",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5936639361?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=4CF1A8744E6EE9A75BF068378C359065AC24E08F"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5936639361?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=4CF1A8744E6EE9A75BF068378C359065AC24E08F"
   },
   {
    "category": "Legal Jobs",
@@ -6613,9 +6691,9 @@
     "adzuna:5936734325",
     "adzuna:5937906536"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5937906536?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=B189D01AFA69CAD8F94CD41432915A84CE54D4BC",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5937906536?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=B189D01AFA69CAD8F94CD41432915A84CE54D4BC",
     "Reed": "https://www.reed.co.uk/jobs/corporate-paralegal/57479497"
    },
    "location": "EC2M1JJ",
@@ -6653,7 +6731,7 @@
    "ids": [
     "adzuna:5936500339"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5936500339?utm_medium=api&utm_source=09275c04"
    },
@@ -6691,7 +6769,7 @@
    "ids": [
     "adzuna:5936500167"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5936500167?utm_medium=api&utm_source=09275c04"
    },
@@ -6729,7 +6807,7 @@
    "ids": [
     "adzuna:5936488192"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5936488192?utm_medium=api&utm_source=09275c04"
    },
@@ -6767,7 +6845,7 @@
    "ids": [
     "adzuna:5936457532"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5936457532?utm_medium=api&utm_source=09275c04"
    },
@@ -6806,9 +6884,9 @@
     "adzuna:5935211943",
     "adzuna:5936638915"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5936638915?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=D46C9A108EE5BC2FE79C28F97CB7540426E0A7CE"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5936638915?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=D46C9A108EE5BC2FE79C28F97CB7540426E0A7CE"
    },
    "location": "The City, Central London",
    "policy_focus": false,
@@ -6825,7 +6903,7 @@
     "Adzuna"
    ],
    "title": "Construction (Non-Contentious) Paralegal (12 Month FTC)",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5936638915?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=D46C9A108EE5BC2FE79C28F97CB7540426E0A7CE"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5936638915?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=D46C9A108EE5BC2FE79C28F97CB7540426E0A7CE"
   },
   {
    "category": "",
@@ -6845,7 +6923,7 @@
     "reed:57435251",
     "reed:57479147"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/legal-secretary-property/57479147"
    },
@@ -6883,7 +6961,7 @@
    "ids": [
     "adzuna:5935806876"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5935806876?utm_medium=api&utm_source=09275c04"
    },
@@ -6963,7 +7041,7 @@
    "ids": [
     "reed:57477482"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/senior-conveyancing-paralegal/57477482"
    },
@@ -7001,7 +7079,7 @@
    "ids": [
     "reed:57477059"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/corporate-paralegal--healthcare-dental/57477059"
    },
@@ -7039,7 +7117,7 @@
    "ids": [
     "reed:57477388"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/admin-assistant-property-finance/57477388"
    },
@@ -7156,9 +7234,9 @@
    "ids": [
     "adzuna:5934511864"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5934511864?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=C735EFE01D72BA3364EA3834661CD930A7F519A9"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5934511864?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=C735EFE01D72BA3364EA3834661CD930A7F519A9"
    },
    "location": "Farringdon, Central London",
    "policy_focus": true,
@@ -7175,7 +7253,7 @@
     "Adzuna"
    ],
    "title": "Corporate Legal Counsel",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5934511864?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=C735EFE01D72BA3364EA3834661CD930A7F519A9"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5934511864?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=C735EFE01D72BA3364EA3834661CD930A7F519A9"
   },
   {
    "category": "Legal Jobs",
@@ -7311,7 +7389,7 @@
    "ids": [
     "reed:57473772"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/anti-corruption-investigations-paralegal/57473772"
    },
@@ -7349,7 +7427,7 @@
    "ids": [
     "reed:57470714"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/litigation-enforcement-paralegal/57470714"
    },
@@ -7388,9 +7466,9 @@
     "reed:57471212",
     "adzuna:5935211888"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5935211888?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=1DBBD4834D9CA9C794669D698038722C40089D97",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5935211888?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=1DBBD4834D9CA9C794669D698038722C40089D97",
     "Reed": "https://www.reed.co.uk/jobs/lpc-sqe1-graduates/57471212"
    },
    "location": "London",
@@ -7428,7 +7506,7 @@
    "ids": [
     "adzuna:5933723768"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5933723768?utm_medium=api&utm_source=09275c04"
    },
@@ -7466,7 +7544,7 @@
    "ids": [
     "adzuna:5933723771"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5933723771?utm_medium=api&utm_source=09275c04"
    },
@@ -7504,7 +7582,7 @@
    "ids": [
     "adzuna:5933723764"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5933723764?utm_medium=api&utm_source=09275c04"
    },
@@ -7542,7 +7620,7 @@
    "ids": [
     "adzuna:5933121880"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5933121880?utm_medium=api&utm_source=09275c04"
    },
@@ -7580,9 +7658,9 @@
    "ids": [
     "adzuna:5933121853"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5933121853?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=94741D9E0915EA20EF5E8EE6167A1C31AE15DB2D"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5933121853?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=94741D9E0915EA20EF5E8EE6167A1C31AE15DB2D"
    },
    "location": "London, UK",
    "policy_focus": false,
@@ -7599,7 +7677,7 @@
     "Adzuna"
    ],
    "title": "Legal Analyst",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5933121853?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=94741D9E0915EA20EF5E8EE6167A1C31AE15DB2D"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5933121853?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=94741D9E0915EA20EF5E8EE6167A1C31AE15DB2D"
   },
   {
    "category": "Legal Jobs",
@@ -7618,7 +7696,7 @@
    "ids": [
     "adzuna:5933090176"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5933090176?utm_medium=api&utm_source=09275c04"
    },
@@ -7656,7 +7734,7 @@
    "ids": [
     "adzuna:5931867526"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5931867526?utm_medium=api&utm_source=09275c04"
    },
@@ -7694,9 +7772,9 @@
    "ids": [
     "adzuna:5931812528"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5931812528?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=F75BDA99DB8A3789EE3772F9E46C1BAF740A5C7E"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5931812528?se=rCf-XK3a8RGMj86c16zqBQ&utm_medium=api&utm_source=09275c04&v=F75BDA99DB8A3789EE3772F9E46C1BAF740A5C7E"
    },
    "location": "The City, Central London",
    "policy_focus": false,
@@ -7713,7 +7791,7 @@
     "Adzuna"
    ],
    "title": "Senior Employment Paralegal",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5931812528?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=F75BDA99DB8A3789EE3772F9E46C1BAF740A5C7E"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5931812528?se=rCf-XK3a8RGMj86c16zqBQ&utm_medium=api&utm_source=09275c04&v=F75BDA99DB8A3789EE3772F9E46C1BAF740A5C7E"
   },
   {
    "category": "Sales Jobs",
@@ -7770,7 +7848,7 @@
    "ids": [
     "adzuna:5931885917"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5931885917?utm_medium=api&utm_source=09275c04"
    },
@@ -7808,7 +7886,7 @@
    "ids": [
     "adzuna:5931367412"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5931367412?utm_medium=api&utm_source=09275c04"
    },
@@ -7846,7 +7924,7 @@
    "ids": [
     "adzuna:5931470408"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5931470408?utm_medium=api&utm_source=09275c04"
    },
@@ -7884,7 +7962,7 @@
    "ids": [
     "adzuna:5931463998"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5931463998?utm_medium=api&utm_source=09275c04"
    },
@@ -7923,9 +8001,9 @@
     "reed:57467983",
     "adzuna:5931072483"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5931072483?se=aAiW-nHa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=11E8DA29DA40E233FDE0B762C754AEC11E6E5AD2",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5931072483?se=rCf-XK3a8RGMj86c16zqBQ&utm_medium=api&utm_source=09275c04&v=11E8DA29DA40E233FDE0B762C754AEC11E6E5AD2",
     "Reed": "https://www.reed.co.uk/jobs/paralegal-funds/57467983"
    },
    "location": "London",
@@ -7964,9 +8042,9 @@
     "reed:57468137",
     "adzuna:5934000966"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5934000966?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=06B65418410A83E4079BDC4FAF4368C2DDAD3D47",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5934000966?se=ZkOtWq3a8RGWMftW92HEPQ&utm_medium=api&utm_source=09275c04&v=06B65418410A83E4079BDC4FAF4368C2DDAD3D47",
     "Reed": "https://www.reed.co.uk/jobs/construction-paralegal/57468137"
    },
    "location": "London",
@@ -8043,9 +8121,9 @@
     "reed:57468178",
     "adzuna:5931812641"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5931812641?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=B1230C878E4BF11D1EAFF6A4B1A4A45275DC6960",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5931812641?se=rCf-XK3a8RGMj86c16zqBQ&utm_medium=api&utm_source=09275c04&v=B1230C878E4BF11D1EAFF6A4B1A4A45275DC6960",
     "Reed": "https://www.reed.co.uk/jobs/non-contentious-construction-paralegal-12-month-ftc/57468178"
    },
    "location": "W1U3BW",
@@ -8083,7 +8161,7 @@
    "ids": [
     "reed:57467966"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/c45000-formalities-paralegal-trade-marks/57467966"
    },
@@ -8122,9 +8200,9 @@
     "reed:57468087",
     "adzuna:5931072531"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5931072531?se=aAiW-nHa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=96DE4670CA77A1B452A2C0E7E3C7C68853706654",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5931072531?se=rCf-XK3a8RGMj86c16zqBQ&utm_medium=api&utm_source=09275c04&v=96DE4670CA77A1B452A2C0E7E3C7C68853706654",
     "Reed": "https://www.reed.co.uk/jobs/legal-assistant-funds/57468087"
    },
    "location": "London",
@@ -8162,7 +8240,7 @@
    "ids": [
     "reed:57468090"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/private-client-legal-assistant/57468090"
    },
@@ -8200,7 +8278,7 @@
    "ids": [
     "reed:57468051"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/stpd-legal-capital-market-advisory-lawyer-executive-director-smbc/57468051"
    },
@@ -8238,7 +8316,7 @@
    "ids": [
     "adzuna:5930831655"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5930831655?utm_medium=api&utm_source=09275c04"
    },
@@ -8277,9 +8355,9 @@
     "reed:57467636",
     "adzuna:5931812601"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5931812601?se=FKRB-HHa8RGjFb9iEnUVhw&utm_medium=api&utm_source=09275c04&v=920457DAC55ED23EF5FE415031896FB775A322A6",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5931812601?se=rCf-XK3a8RGMj86c16zqBQ&utm_medium=api&utm_source=09275c04&v=920457DAC55ED23EF5FE415031896FB775A322A6",
     "Reed": "https://www.reed.co.uk/jobs/private-client-paralegal/57467636"
    },
    "location": "London",
@@ -8358,7 +8436,7 @@
    "ids": [
     "reed:57467502"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/citma-paralegal-manager--london/57467502"
    },
@@ -8396,7 +8474,7 @@
    "ids": [
     "adzuna:5930699347"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5930699347?utm_medium=api&utm_source=09275c04"
    },
@@ -8434,7 +8512,7 @@
    "ids": [
     "reed:57465399"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/temporary-legal-operations-assistant/57465399"
    },
@@ -8472,7 +8550,7 @@
    "ids": [
     "adzuna:5929692664"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5929692664?utm_medium=api&utm_source=09275c04"
    },
@@ -8551,7 +8629,7 @@
    "ids": [
     "reed:57464237"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/paralegal-private-markets-carnegie-consulting/57464237"
    },
@@ -8589,7 +8667,7 @@
    "ids": [
     "adzuna:5929396897"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5929396897?utm_medium=api&utm_source=09275c04"
    },
@@ -8628,9 +8706,9 @@
     "reed:57463887",
     "adzuna:5930213467"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5930213467?se=aAiW-nHa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=CB18A7C820FB04DC040FD52E81992C8B74FDA9C4",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5930213467?se=rCf-XK3a8RGMj86c16zqBQ&utm_medium=api&utm_source=09275c04&v=CB18A7C820FB04DC040FD52E81992C8B74FDA9C4",
     "Reed": "https://www.reed.co.uk/jobs/paralegal-funds/57463887"
    },
    "location": "EC4Y0AY",
@@ -8668,7 +8746,7 @@
    "ids": [
     "adzuna:5929191098"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5929191098?utm_medium=api&utm_source=09275c04"
    },
@@ -8707,9 +8785,9 @@
     "reed:57462252",
     "adzuna:5929131318"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5929131318?se=aAiW-nHa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=698F946CE0BB15AB061F3EF8CDFD7DCDD7A34723",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5929131318?se=rCf-XK3a8RGMj86c16zqBQ&utm_medium=api&utm_source=09275c04&v=698F946CE0BB15AB061F3EF8CDFD7DCDD7A34723",
     "Reed": "https://www.reed.co.uk/jobs/plot-sales-paralegal/57462252"
    },
    "location": "W1F7BE",
@@ -8747,7 +8825,7 @@
    "ids": [
     "reed:57461646"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/coneyancing-paralegal-in-east-london/57461646"
    },
@@ -8861,7 +8939,7 @@
    "ids": [
     "adzuna:5928341457"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5928341457?utm_medium=api&utm_source=09275c04"
    },
@@ -8899,7 +8977,7 @@
    "ids": [
     "adzuna:5928341348"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5928341348?utm_medium=api&utm_source=09275c04"
    },
@@ -8975,7 +9053,7 @@
    "ids": [
     "adzuna:5928246360"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5928246360?utm_medium=api&utm_source=09275c04"
    },
@@ -9015,9 +9093,9 @@
     "reed:57459066",
     "adzuna:5928846894"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5928846894?se=aAiW-nHa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=BF7F3CA12C4814EDB61C50DCC35D86424F15299D",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5928846894?se=rCf-XK3a8RGMj86c16zqBQ&utm_medium=api&utm_source=09275c04&v=BF7F3CA12C4814EDB61C50DCC35D86424F15299D",
     "Reed": "https://www.reed.co.uk/jobs/conveyancing-lawyer/57459066"
    },
    "location": "KT138AH",
@@ -9055,7 +9133,7 @@
    "ids": [
     "reed:57459605"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/trade-mark-paralegal/57459605"
    },
@@ -9093,7 +9171,7 @@
    "ids": [
     "reed:57459704"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/graduate-executive-search-consultant/57459704"
    },
@@ -9132,9 +9210,9 @@
     "adzuna:5927828206",
     "adzuna:5930432092"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5927828206?se=aAiW-nHa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=0AE81C4800E7F93F3C487B8E3EEF2A37DAB0115F"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5927828206?se=rCf-XK3a8RGMj86c16zqBQ&utm_medium=api&utm_source=09275c04&v=0AE81C4800E7F93F3C487B8E3EEF2A37DAB0115F"
    },
    "location": "London, UK",
    "policy_focus": false,
@@ -9151,7 +9229,7 @@
     "Adzuna"
    ],
    "title": "Commercial Legal Officer",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5927828206?se=aAiW-nHa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=0AE81C4800E7F93F3C487B8E3EEF2A37DAB0115F"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5927828206?se=rCf-XK3a8RGMj86c16zqBQ&utm_medium=api&utm_source=09275c04&v=0AE81C4800E7F93F3C487B8E3EEF2A37DAB0115F"
   },
   {
    "category": "Legal Jobs",
@@ -9170,7 +9248,7 @@
    "ids": [
     "adzuna:5927810281"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5927810281?utm_medium=api&utm_source=09275c04"
    },
@@ -9208,7 +9286,7 @@
    "ids": [
     "reed:57458606"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/property-legal-secretary/57458606"
    },
@@ -9246,7 +9324,7 @@
    "ids": [
     "adzuna:5927553850"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5927553850?utm_medium=api&utm_source=09275c04"
    },
@@ -9284,9 +9362,9 @@
    "ids": [
     "adzuna:5927547293"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5927547293?se=aAiW-nHa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=2019E9DD7475EBDA9CF8023B64A763457F9A7C3F"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5927547293?se=rCf-XK3a8RGMj86c16zqBQ&utm_medium=api&utm_source=09275c04&v=2019E9DD7475EBDA9CF8023B64A763457F9A7C3F"
    },
    "location": "South East London, London",
    "policy_focus": false,
@@ -9303,7 +9381,7 @@
     "Adzuna"
    ],
    "title": "Legal Professional",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5927547293?se=aAiW-nHa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=2019E9DD7475EBDA9CF8023B64A763457F9A7C3F"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5927547293?se=rCf-XK3a8RGMj86c16zqBQ&utm_medium=api&utm_source=09275c04&v=2019E9DD7475EBDA9CF8023B64A763457F9A7C3F"
   },
   {
    "category": "",
@@ -9475,7 +9553,7 @@
    "ids": [
     "adzuna:5927186854"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5927186854?utm_medium=api&utm_source=09275c04"
    },
@@ -9589,7 +9667,7 @@
    "ids": [
     "adzuna:5927176653"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5927176653?utm_medium=api&utm_source=09275c04"
    },
@@ -9627,7 +9705,7 @@
    "ids": [
     "adzuna:5927138917"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5927138917?utm_medium=api&utm_source=09275c04"
    },
@@ -9665,7 +9743,7 @@
    "ids": [
     "adzuna:5927116962"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5927116962?utm_medium=api&utm_source=09275c04"
    },
@@ -9741,7 +9819,7 @@
    "ids": [
     "adzuna:5926460820"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5926460820?utm_medium=api&utm_source=09275c04"
    },
@@ -9779,7 +9857,7 @@
    "ids": [
     "adzuna:5926470453"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5926470453?utm_medium=api&utm_source=09275c04"
    },
@@ -10009,7 +10087,7 @@
    "ids": [
     "reed:57454182"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/senior-citma-paralegal--london--c60000/57454182"
    },
@@ -10127,7 +10205,7 @@
    "ids": [
     "reed:57452082"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/conveyancing-paralegal/57452082"
    },
@@ -10205,7 +10283,7 @@
    "ids": [
     "adzuna:5925550816"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5925550816?utm_medium=api&utm_source=09275c04"
    },
@@ -10281,9 +10359,9 @@
    "ids": [
     "adzuna:5925516519"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5925516519?se=aAiW-nHa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=79B93456F30977C366ABCCEE1D2461D647180F22"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5925516519?se=rCf-XK3a8RGMj86c16zqBQ&utm_medium=api&utm_source=09275c04&v=79B93456F30977C366ABCCEE1D2461D647180F22"
    },
    "location": "London, UK",
    "policy_focus": false,
@@ -10300,7 +10378,7 @@
     "Adzuna"
    ],
    "title": "Loans Transaction Management Specialist",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5925516519?se=aAiW-nHa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=79B93456F30977C366ABCCEE1D2461D647180F22"
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5925516519?se=rCf-XK3a8RGMj86c16zqBQ&utm_medium=api&utm_source=09275c04&v=79B93456F30977C366ABCCEE1D2461D647180F22"
   },
   {
    "category": "Legal Jobs",
@@ -10395,7 +10473,7 @@
    "ids": [
     "adzuna:5925143382"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5925143382?utm_medium=api&utm_source=09275c04"
    },
@@ -10433,7 +10511,7 @@
    "ids": [
     "adzuna:5925143380"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5925143380?utm_medium=api&utm_source=09275c04"
    },
@@ -10471,7 +10549,7 @@
    "ids": [
     "adzuna:5925143385"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5925143385?utm_medium=api&utm_source=09275c04"
    },
@@ -10510,7 +10588,7 @@
     "reed:57451215",
     "adzuna:5925718685"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5925718685?utm_medium=api&utm_source=09275c04",
     "Reed": "https://www.reed.co.uk/jobs/family-paralegal-fully-remote/57451215"
@@ -10591,9 +10669,9 @@
     "adzuna:5924224302",
     "adzuna:5929014667"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5924263360?se=aAiW-nHa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=B8338B9871801C0C474AC44A385A7F2ADFE8762B",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5924263360?se=rCf-XK3a8RGMj86c16zqBQ&utm_medium=api&utm_source=09275c04&v=B8338B9871801C0C474AC44A385A7F2ADFE8762B",
     "Reed": "https://www.reed.co.uk/jobs/paralegal/57448175"
    },
    "location": "London",
@@ -10631,7 +10709,7 @@
    "ids": [
     "adzuna:5924046547"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5924046547?utm_medium=api&utm_source=09275c04"
    },
@@ -10822,9 +10900,9 @@
     "reed:57440569",
     "adzuna:5921789370"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5921789370?se=aAiW-nHa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=5EE56ADD18560F41ECB4BF3FA55EA9888A2D5B0D",
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5921789370?se=rCf-XK3a8RGMj86c16zqBQ&utm_medium=api&utm_source=09275c04&v=5EE56ADD18560F41ECB4BF3FA55EA9888A2D5B0D",
     "Reed": "https://www.reed.co.uk/jobs/patent-paralegal/57440569"
    },
    "location": "EC2V7BQ",
@@ -10863,7 +10941,7 @@
     "adzuna:5920609681",
     "reed:57521989"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5920609681?se=aAiW-nHa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=09275c04&v=79A0C3ADC1A2E3FE9FC548B42CFB5E777D46DC15",
     "Reed": "https://www.reed.co.uk/jobs/paralegal/57521989"
@@ -10941,7 +11019,7 @@
    "ids": [
     "adzuna:5920328540"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5920328540?utm_medium=api&utm_source=09275c04"
    },
@@ -10979,7 +11057,7 @@
    "ids": [
     "adzuna:5920327726"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5920327726?utm_medium=api&utm_source=09275c04"
    },
@@ -11055,7 +11133,7 @@
    "ids": [
     "adzuna:5919651061"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5919651061?utm_medium=api&utm_source=09275c04"
    },
@@ -11131,7 +11209,7 @@
    "ids": [
     "adzuna:5919585448"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5919585448?utm_medium=api&utm_source=09275c04"
    },
@@ -11169,7 +11247,7 @@
    "ids": [
     "reed:57438423"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/45000-patent-paralegal--top-london-law-firm/57438423"
    },
@@ -11285,7 +11363,7 @@
     "reed:57436681",
     "reed:57436680"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/residential-property-paralegal/57436682"
    },
@@ -11327,7 +11405,7 @@
     "adzuna:5912752789",
     "adzuna:5912575348"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5914008618?se=GsndexrY8RGH4JrozPs-YA&utm_medium=api&utm_source=09275c04&v=01ABA4EBE627ACB07569C5A0781CEFD1701ED65F",
     "Reed": "https://www.reed.co.uk/jobs/conveyancing-paralegal/57434973"
@@ -11369,7 +11447,7 @@
     "adzuna:5919005785",
     "adzuna:5920215613"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5920215613?se=DhT1CQLa8RG1WqMEDD5QZg&utm_medium=api&utm_source=09275c04&v=2508B32DBD66147A35807321434F18ADC68AEB24",
     "Reed": "https://www.reed.co.uk/jobs/data-protection-paralegal/57434905"
@@ -11447,7 +11525,7 @@
    "ids": [
     "adzuna:5918699630"
    ],
-   "last_seen": "2026-11-07T06:10:30Z",
+   "last_seen": "2026-11-07T13:15:36Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5918699630?utm_medium=api&utm_source=09275c04"
    },
@@ -11660,9 +11738,9 @@
   }
  ],
  "meta": {
-  "last_run": "2026-11-07T06:10:30Z",
-  "new_this_run": 40,
-  "previous_run": "2026-11-06T23:15:30Z",
+  "last_run": "2026-11-07T13:15:36Z",
+  "new_this_run": 39,
+  "previous_run": "2026-11-07T06:10:30Z",
   "search": {
    "keywords": "paralegal",
    "location": "London",
@@ -11670,9 +11748,9 @@
    "radius_miles": 10
   },
   "sources": {
-   "Adzuna": "ok (191 results)",
+   "Adzuna": "ok (194 results)",
    "Reed": "ok (135 results)"
   },
-  "total": 302
+  "total": 304
  }
 }
