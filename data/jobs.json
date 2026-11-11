@@ -1,6 +1,82 @@
 {
  "jobs": [
   {
+   "category": "",
+   "company": "Herefords Solicitors Limited",
+   "contract_raw": "Permanent",
+   "contract_type": "Permanent",
+   "description": "Inbound Lead Management & Client Conversion Herefords Solicitors Limited – Specialist Employment Law Firm Salary: £28,000–£35,000 per annum, depending on experience Location: Fully remote (UK-based) Job type: Permanent, full-time Hours: Monday to Friday, 9:00 am–5:30 pm, with a one-hour unpaid lunch break (37.5 hours per week) About Herefords Solicitors Herefords Solicitors is an established specialist employment law firm advising employees, senior executives and employers on matters including settlement agreements, redundancy, dismissals, discrimination and employment disputes. As part of our continued growth, we are seeking an exceptional individual to manage incoming enquiries, build relationships with prospective clients and convert suitable enquiries into paying clients. This is an excellent opportunity for a confident, articulate and commercially minded individual with outstanding communication skills and a genuine ability to secure new business. This is not a cold-calling role. The firm generates the enquiries. Your responsibility is to engage with prospective clients, understand their requirements, explain our services and fees, and confidently secure suitable instructions. You will work closely with the firm's Director and experienced employment solicitors, taking ownership of an important commercial function within the practice. The Role You will become the principal point of contact for prospective clients contacting the firm by telephone, email and through our website. You will manage enquiries from initial contact through to securing instructions, ensuring prospective clients receive a prompt, professional and reassuring service. The successful candidate will be expected to work independently, build trust, confidently discuss fees, handle objections and convert suitable enquiries into instructions. This is a dedicated inbound sales and client conversion role. It does not involve cold calling, paralegal work or providing legal advice. Key Responsibilities Client Enquiries and Conversion Manage incoming telephone, email and website enquiries promptly and professionally. Conduct initial conversations to understand prospective clients' circumstances, requirements and urgency. Build rapport, establish trust and communicate confidently with clients from diverse backgrounds. Explain the firm's services, processes and fee structures clearly and persuasively. Discuss fixed fees and approved pricing arrangements confidently. Address concerns about fees, scope and instructing the firm. Convert suitable enquiries into confirmed instructions while maintaining excellent client care. Proactively follow up undecided prospective clients. Identify urgent or complex matters requiring referral to a solicitor. Lead and Pipeline Management Take ownership of the inbound enquiry and conversion process. Maintain accurate records of enquiries, follow-ups and outcomes. Monitor conversion rates, enquiry volumes and reasons for lost opportunities. Identify ways ",
+   "experience_evidence": "and experienced employment solicitors",
+   "experience_level": "Experience required",
+   "expires": "2026-12-23",
+   "fingerprint": "inbound lead management client conversion|herefords",
+   "first_seen": "2026-11-11T17:15:00Z",
+   "hours": "Full-time",
+   "hours_raw": "Full-time",
+   "id": "reed:57557547",
+   "ids": [
+    "reed:57557547"
+   ],
+   "last_seen": "2026-11-11T17:15:00Z",
+   "links": {
+    "Reed": "https://www.reed.co.uk/jobs/inbound-lead-management-client-conversion/57557547"
+   },
+   "location": "W1S1BN",
+   "policy_focus": false,
+   "posted": "2026-11-11",
+   "practice_area": "Employment",
+   "salary": "£28,000 – £35,000",
+   "salary_estimated": false,
+   "salary_max": 35000.0,
+   "salary_min": 28000.0,
+   "score": 3,
+   "score_reason": "Base 3; no strong signals either way",
+   "source": "Reed",
+   "sources": [
+    "Reed"
+   ],
+   "title": "Inbound Lead Management & Client Conversion",
+   "url": "https://www.reed.co.uk/jobs/inbound-lead-management-client-conversion/57557547"
+  },
+  {
+   "category": "",
+   "company": "Recruitment People",
+   "contract_raw": "Permanent",
+   "contract_type": "Permanent",
+   "description": "Looking for a career where your drive, competitiveness, and sales skills translate into real earning potential? We are working with leading UK recruitment firms seeking ambitious, target-driven individuals ready to build a long-term, high-reward career. Candidates from telesales, retail sales, door-to-door, customer-facing roles, or competitive sports backgrounds are strongly encouraged to apply. If you know how to work hard, stay motivated, and perform under pressure, recruitment could be the ideal next step. Daily Responsibilities Build and develop strong client relationships Source, qualify, and interview high-calibre candidates Present candidates to clients and manage the full recruitment cycle Negotiate offers and close placements Work towards clear targets in a fast-paced, performance-driven environment What’s On Offer £26,500 base salary + uncapped commission £50,000 OTE Year 1 | £65,000+ Year 2 | £95,000+ Year 3 Comprehensive training and ongoing one-to-one mentorship High-performance incentives including: Fully paid holidays Monthly and quarterly rewards Social events and a supportive team environment Why Recruitment? Recruitment offers exceptional earning potential for competitive people with strong communication and sales ability. Your performance directly determines your earnings and progression - you control your success . Apply Now If you’re competitive, money-motivated, and eager to build a rewarding long-term career, apply today . Recruitment People is here to support you all the way through this process, make sure you feel fully prepared for every interview and coach you on how best to communicate why you are the best person for this outstanding opportunity. Get involved with Recruitment People! Recruitment People recruit in to all specialised sectors of recruitment consultancy including; Technology Recruitment, Trainee Recruitment Consultant, Finance Recruitment, Trainee Recruitment Consultant, Oil Recruitment, Trainee Recruitment Consultant, Gas Recruitment, Trainee Recruitment Consultant, Energy Recruitment, Trainee Recruitment Consultant, IT Recruitment, Trainee Recruitment Consultant, Management Consultant Recruitment, Trainee Recruitment Consultant, Engineering Recruitment, Trainee Recruitment Consultant, SAP Recruitment, Trainee Recruitment Consultant, HR Recruitment, Trainee Recruitment Consultant, Legal Recruitment, Trainee Recruitment Consultant, Paralegal Recruitment, Trainee Recruitment Consultant, Investment Banking Recruitment, Trainee Recruitment Consultant, Hedge Fund Recruitment, Trainee Recruitment Consultant, Digital Recruitment, Trainee Recruitment Consultant, Media Recruitment, Trainee Recruitment Consultant, Marketing Recruitment, Trainee Recruitment Consultant, Public Sector Recruitment, Trainee Recruitment Consultant, International Recruitment, Trainee Recruitment Consultant, Pharmaceutical Recruitment, Trainee Recruitment Consultant, Bioscience Recruitment, Procurement Recruitment, Trainee Recruitment Con",
+   "experience_evidence": "Trainee",
+   "experience_level": "Graduate / no experience",
+   "expires": "2026-12-23",
+   "fingerprint": "trainee recruitment consultant sales|people",
+   "first_seen": "2026-11-11T17:15:00Z",
+   "hours": "Full-time",
+   "hours_raw": "Full-time",
+   "id": "reed:57558430",
+   "ids": [
+    "reed:57558430"
+   ],
+   "last_seen": "2026-11-11T17:15:00Z",
+   "links": {
+    "Reed": "https://www.reed.co.uk/jobs/trainee-recruitment-consultant--sales/57558430"
+   },
+   "location": "EC2A1AH",
+   "policy_focus": true,
+   "posted": "2026-11-11",
+   "practice_area": "Banking & Finance",
+   "salary": "£26,500 – £30,000",
+   "salary_estimated": false,
+   "salary_max": 30000.0,
+   "salary_min": 26500.0,
+   "score": 4,
+   "score_reason": "Base 3; +1 public/policy (public sector)",
+   "source": "Reed",
+   "sources": [
+    "Reed"
+   ],
+   "title": "Trainee Recruitment Consultant – Sales",
+   "url": "https://www.reed.co.uk/jobs/trainee-recruitment-consultant--sales/57558430"
+  },
+  {
    "category": "Legal Jobs",
    "company": "Jameson Legal.",
    "contract_raw": "contract",
@@ -115,6 +191,45 @@
    "url": "https://www.adzuna.co.uk/jobs/details/5960909426?utm_medium=api&utm_source=09275c04"
   },
   {
+   "category": "",
+   "company": "Reed",
+   "contract_raw": "Permanent",
+   "contract_type": "Permanent",
+   "description": "Residential Property Paralegal Job Type: Full-time, office-based Location: London Salary: Up to £40,000 DOE A well-established, Legal 500 law firm is looking for a Residential Property Paralegal to join its residential property team in London. This is a career Residential Property Paralegal position supporting a busy department with a range of residential transactions, including freehold, leasehold, new build, remortgages, transfers of equity and lease extensions. This opportunity would suit an experienced Residential Property Paralegal who enjoys working in a professional, supportive environment and is confident handling post-completion and transactional support work. Please note, this role is not suitable for someone seeking Qualifying Work Experience. Day-to-day of the role Assist with residential property transactions including freehold, leasehold, new build, remortgages, transfers of equity and lease extensions Complete and submit SDLT returns accurately and on time Prepare Companies House submissions where required Submit HMLR applications and deal with any requisitions Handle leasehold post-completion requirements Support fee earners through exchange and completion Open new files and assist with AML compliance checks Manage file closing processes in line with firm procedures Liaise with clients, agents and solicitors regarding general enquiries and case updates Required Skills & Qualifications At least 2 years’ experience working as a Residential Property Paralegal Strong understanding of residential conveyancing processes and post-completion work Experience completing SDLT returns, HMLR applications and dealing with requisitions Knowledge of leasehold post-completion requirements Experience supporting fee earners with exchange and completion Confident handling file opening, AML compliance and file closing procedures Strong communication skills when dealing with clients, agents and solicitors Excellent attention to detail and ability to manage a busy workload effectively Benefits 25 days’ annual leave, increasing with length of service Healthcare cover Discounted gym membership Enhanced adoption, maternity and paternity pay after a qualifying period Opportunity to develop within a respected law firm Supportive and collaborative team environment How to apply To apply for this Residential Property Paralegal position, please submit your CV.",
+   "experience_evidence": "2 years",
+   "experience_level": "Experience required",
+   "expires": "2026-12-11",
+   "fingerprint": "property paralegal|reed",
+   "first_seen": "2026-11-10T21:20:20Z",
+   "hours": "Full-time",
+   "hours_raw": "Full-time",
+   "id": "reed:57555329",
+   "ids": [
+    "reed:57555329",
+    "reed:57556891"
+   ],
+   "last_seen": "2026-11-11T17:15:00Z",
+   "links": {
+    "Reed": "https://www.reed.co.uk/jobs/property-paralegal/57556891"
+   },
+   "location": "SM60NW",
+   "policy_focus": false,
+   "posted": "2026-11-11",
+   "practice_area": "Property / Real Estate",
+   "salary": "£25,000 – £250,008",
+   "salary_estimated": false,
+   "salary_max": 250008.0,
+   "salary_min": 25000.0,
+   "score": 3,
+   "score_reason": "Base 3; +1 career-friendly (SQE); −1 asks for 2 years experience",
+   "source": "Reed",
+   "sources": [
+    "Reed"
+   ],
+   "title": "Property Paralegal",
+   "url": "https://www.reed.co.uk/jobs/property-paralegal/57556891"
+  },
+  {
    "category": "Legal Jobs",
    "company": "Mallory Pryce",
    "contract_raw": "",
@@ -191,44 +306,6 @@
    "url": "https://www.adzuna.co.uk/jobs/details/5960212036?utm_medium=api&utm_source=09275c04"
   },
   {
-   "category": "",
-   "company": "Reed",
-   "contract_raw": "Permanent",
-   "contract_type": "Permanent",
-   "description": "Residential Property Paralegal Job Type: Full-time, office-based Location: London Salary: Up to £40,000 DOE A well-established, Legal 500 law firm is looking for a Residential Property Paralegal to join its residential property team in London. This is a career Residential Property Paralegal position supporting a busy department with a range of residential transactions, including freehold, leasehold, new build, remortgages, transfers of equity and lease extensions. This opportunity would suit an experienced Residential Property Paralegal who enjoys working in a professional, supportive environment and is confident handling post-completion and transactional support work. Please note, this role is not suitable for someone seeking Qualifying Work Experience. Day-to-day of the role Assist with residential property transactions including freehold, leasehold, new build, remortgages, transfers of equity and lease extensions Complete and submit SDLT returns accurately and on time Prepare Companies House submissions where required Submit HMLR applications and deal with any requisitions Handle leasehold post-completion requirements Support fee earners through exchange and completion Open new files and assist with AML compliance checks Manage file closing processes in line with firm procedures Liaise with clients, agents and solicitors regarding general enquiries and case updates Required Skills & Qualifications At least 2 years’ experience working as a Residential Property Paralegal Strong understanding of residential conveyancing processes and post-completion work Experience completing SDLT returns, HMLR applications and dealing with requisitions Knowledge of leasehold post-completion requirements Experience supporting fee earners with exchange and completion Confident handling file opening, AML compliance and file closing procedures Strong communication skills when dealing with clients, agents and solicitors Excellent attention to detail and ability to manage a busy workload effectively Benefits 25 days’ annual leave, increasing with length of service Healthcare cover Discounted gym membership Enhanced adoption, maternity and paternity pay after a qualifying period Opportunity to develop within a respected law firm Supportive and collaborative team environment How to apply To apply for this Residential Property Paralegal position, please submit your CV.",
-   "experience_evidence": "2 years",
-   "experience_level": "Experience required",
-   "expires": "2026-12-10",
-   "fingerprint": "property paralegal|reed",
-   "first_seen": "2026-11-10T21:20:20Z",
-   "hours": "Full-time",
-   "hours_raw": "Full-time",
-   "id": "reed:57555329",
-   "ids": [
-    "reed:57555329"
-   ],
-   "last_seen": "2026-11-11T06:41:54Z",
-   "links": {
-    "Reed": "https://www.reed.co.uk/jobs/property-paralegal/57555329"
-   },
-   "location": "EC3A5AT",
-   "policy_focus": false,
-   "posted": "2026-11-10",
-   "practice_area": "Property / Real Estate",
-   "salary": "£30,000 – £40,000",
-   "salary_estimated": false,
-   "salary_max": 40000.0,
-   "salary_min": 30000.0,
-   "score": 3,
-   "score_reason": "Base 3; +1 career-friendly (SQE); −1 asks for 2 years experience",
-   "source": "Reed",
-   "sources": [
-    "Reed"
-   ],
-   "title": "Property Paralegal",
-   "url": "https://www.reed.co.uk/jobs/property-paralegal/57555329"
-  },
-  {
    "category": "Legal Jobs",
    "company": "Larbey Evans",
    "contract_raw": "Permanent",
@@ -246,7 +323,7 @@
     "reed:57554107",
     "adzuna:5961223411"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5961223411?se=dB9M_5rd8RGxxfiocfBGAQ&utm_medium=api&utm_source=09275c04&v=6FD259F276A6D504B4A10D21EDB0E606AF60BF2C",
     "Reed": "https://www.reed.co.uk/jobs/ip-paralegal/57554107"
@@ -286,7 +363,7 @@
    "ids": [
     "reed:57555233"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/paralegal-real-estate-good-london/57555233"
    },
@@ -515,7 +592,7 @@
     "reed:57554016",
     "adzuna:5961223554"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5961223554?se=dB9M_5rd8RGxxfiocfBGAQ&utm_medium=api&utm_source=09275c04&v=B7107B16202D953F266867C4DDC69101813BCA8C",
     "Reed": "https://www.reed.co.uk/jobs/brand-protection-formalities-paralegal/57554016"
@@ -555,7 +632,7 @@
    "ids": [
     "reed:57552396"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/legal-recruitment-specialist-12-month-ftc/57552396"
    },
@@ -593,7 +670,7 @@
    "ids": [
     "reed:57553976"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/commercial-property-legal-assistant/57553976"
    },
@@ -632,7 +709,7 @@
     "reed:57553648",
     "reed:57553691"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/costs-paralegal/57553691"
    },
@@ -710,7 +787,7 @@
     "reed:57545451",
     "adzuna:5959993608"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5959993608?se=dB9M_5rd8RGxxfiocfBGAQ&utm_medium=api&utm_source=09275c04&v=EF1DB4509B809C0AED4676C989CF5431BF0F53B4",
     "Reed": "https://www.reed.co.uk/jobs/dutch-speaking-litigation-paralegal-12-month-ftc/57545451"
@@ -752,7 +829,7 @@
     "reed:57551744",
     "reed:57551741"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/team-assistant/57547126"
    },
@@ -791,7 +868,7 @@
     "reed:57546076",
     "adzuna:5959821593"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5959821593?utm_medium=api&utm_source=09275c04",
     "Reed": "https://www.reed.co.uk/jobs/regulatory-lawyer-fitness-to-practise/57546076"
@@ -831,7 +908,7 @@
    "ids": [
     "reed:57546229"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/regulatory-lawyer-fitness-to-practise/57546229"
    },
@@ -910,7 +987,7 @@
     "reed:57547140",
     "reed:57551737"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/paralegal/57547140"
    },
@@ -1558,7 +1635,7 @@
    "ids": [
     "reed:57538733"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/junior-litigation-lawyer-temporary/57538733"
    },
@@ -1596,7 +1673,7 @@
    "ids": [
     "reed:57537825"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/patent-records-administrator-to-early-40s--12-month-contract/57537825"
    },
@@ -1827,7 +1904,7 @@
     "reed:57506064",
     "reed:57538975"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/legal-administrator/57538975"
    },
@@ -1904,7 +1981,7 @@
     "reed:57532979",
     "adzuna:5955857641"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5955857641?se=dB9M_5rd8RGxxfiocfBGAQ&utm_medium=api&utm_source=09275c04&v=19CDA3C7DDE92085389EB6A91ACCB4E653BAAF4E",
     "Reed": "https://www.reed.co.uk/jobs/data-privacy-paralegal/57532979"
@@ -1947,7 +2024,7 @@
     "reed:57555104",
     "adzuna:5961223416"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5955857430?se=dB9M_5rd8RGxxfiocfBGAQ&utm_medium=api&utm_source=09275c04&v=2EB391DB756A6C606C5D944EC081FE4477A42F89",
     "Reed": "https://www.reed.co.uk/jobs/real-estate-paralegal/57533828"
@@ -2412,7 +2489,7 @@
     "reed:57535540",
     "adzuna:5955858274"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5955858274?se=dB9M_5rd8RGxxfiocfBGAQ&utm_medium=api&utm_source=09275c04&v=689C0A31A7CE1561C21679A1FC0FE6EB951E7D77",
     "Reed": "https://www.reed.co.uk/jobs/litigation-paralegal/57535540"
@@ -2566,7 +2643,7 @@
    "ids": [
     "reed:57531752"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/graduate-researcher/57531752"
    },
@@ -2605,7 +2682,7 @@
     "reed:57523743",
     "adzuna:5954107049"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5954107049?se=dsOoAZvd8RGhn6tFR53qbQ&utm_medium=api&utm_source=09275c04&v=3209D259F19FE96E5B00F07959D77A160E186680",
     "Reed": "https://www.reed.co.uk/jobs/immigration-paralegal/57523743"
@@ -2647,7 +2724,7 @@
     "adzuna:5953054696",
     "adzuna:5954107189"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5953054696?utm_medium=api&utm_source=09275c04",
     "Reed": "https://www.reed.co.uk/jobs/commercial-litigation-paralegal/57523440"
@@ -2690,7 +2767,7 @@
     "adzuna:5954107140",
     "adzuna:5954107040"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5954107040?se=dsOoAZvd8RGhn6tFR53qbQ&utm_medium=api&utm_source=09275c04&v=694D4C69D8A0F254B1DCE78811F7A1F45259435A",
     "Reed": "https://www.reed.co.uk/jobs/international-arbitration-paralegal/57523775"
@@ -2731,7 +2808,7 @@
     "reed:57528159",
     "adzuna:5953391943"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5953391943?se=dsOoAZvd8RGhn6tFR53qbQ&utm_medium=api&utm_source=09275c04&v=9AC31D3507249539679B2816A2DBC7EA936D3B8F",
     "Reed": "https://www.reed.co.uk/jobs/legal-manager/57528159"
@@ -3342,7 +3419,7 @@
    "ids": [
     "reed:57521989"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/paralegal/57521989"
    },
@@ -3382,7 +3459,7 @@
     "adzuna:5952836254",
     "adzuna:5951761319"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5951761319?se=dsOoAZvd8RGhn6tFR53qbQ&utm_medium=api&utm_source=09275c04&v=688A09B3FBB0C20BA220E762F6FAB6D833817D96",
     "Reed": "https://www.reed.co.uk/jobs/property-litigation-associate-solicitor/57520281"
@@ -3537,7 +3614,7 @@
     "reed:57520445",
     "adzuna:5951999923"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5951999923?se=dsOoAZvd8RGhn6tFR53qbQ&utm_medium=api&utm_source=09275c04&v=3B127C56896F028BB5DDED556BA878C67CD9C5CF",
     "Reed": "https://www.reed.co.uk/jobs/commercial-litigation-paralegal/57520445"
@@ -3578,7 +3655,7 @@
     "reed:57519950",
     "adzuna:5952836290"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5952836290?se=dsOoAZvd8RGhn6tFR53qbQ&utm_medium=api&utm_source=09275c04&v=A827279CB99B9F97FC8C6957E5FC132D5E401CBF",
     "Reed": "https://www.reed.co.uk/jobs/commercial-litigation-paralegal/57519950"
@@ -3618,7 +3695,7 @@
    "ids": [
     "reed:57521090"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/commercial-litigation-paralegal-dispute-resolution/57521090"
    },
@@ -3656,7 +3733,7 @@
    "ids": [
     "reed:57520004"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/senior-legal-technologist/57520004"
    },
@@ -3694,7 +3771,7 @@
    "ids": [
     "reed:57520912"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/conveyancer/57520912"
    },
@@ -3808,7 +3885,7 @@
    "ids": [
     "reed:57515807"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/paralegal/57515807"
    },
@@ -3846,7 +3923,7 @@
    "ids": [
     "reed:57517206"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/conveyancing-paralegal/57517206"
    },
@@ -3963,7 +4040,7 @@
     "adzuna:5951565392",
     "adzuna:5959993621"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5950628077?se=dsOoAZvd8RGhn6tFR53qbQ&utm_medium=api&utm_source=09275c04&v=E21E6A6B9921EDC95F414352F37324AE8EF4CF2A",
     "Reed": "https://www.reed.co.uk/jobs/conveyancing-paralegal/57513412"
@@ -4311,7 +4388,7 @@
     "adzuna:5935504421",
     "reed:57555352"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5935504421?se=7hB6Bpvd8RGhn6tFR53qbQ&utm_medium=api&utm_source=09275c04&v=187F5EB2C9AA17660A80B1E0B60F5420EC3EAA3B",
     "Reed": "https://www.reed.co.uk/jobs/graduate-recruitment-consultant/57508495"
@@ -4389,7 +4466,7 @@
    "ids": [
     "reed:57508719"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/conveyancing-paralegal/57508719"
    },
@@ -4427,7 +4504,7 @@
    "ids": [
     "reed:57508260"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/funds-legal-assistant/57508260"
    },
@@ -4503,7 +4580,7 @@
    "ids": [
     "reed:57507758"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/patent-records-paralegal-london/57507758"
    },
@@ -4541,7 +4618,7 @@
    "ids": [
     "reed:57507515"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/legal-assistant--commercial-property-department/57507515"
    },
@@ -4579,7 +4656,7 @@
    "ids": [
     "reed:57507733"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/c45000-trade-mark-formalities-coordinator--london-hybrid/57507733"
    },
@@ -4922,7 +4999,7 @@
    "ids": [
     "reed:57506294"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/paralegal-property/57506294"
    },
@@ -5113,7 +5190,7 @@
     "reed:57502401",
     "reed:57546891"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/trainee-recruitment-consultant/57502401"
    },
@@ -5191,7 +5268,7 @@
     "adzuna:5944892889",
     "adzuna:5945815367"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5944892889?se=mOsLBJvd8RGW67hsumO50A&utm_medium=api&utm_source=09275c04&v=9FEC3B8AFD2196EDDE118497D09A4903265C01BF",
     "Reed": "https://www.reed.co.uk/jobs/legal-intern-paralegal-internship/57502390"
@@ -5270,7 +5347,7 @@
     "reed:57501883",
     "adzuna:5948635298"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5948635298?se=dsOoAZvd8RGhn6tFR53qbQ&utm_medium=api&utm_source=09275c04&v=780B19E07A19795FD65408494C36529C763DAFAE",
     "Reed": "https://www.reed.co.uk/jobs/international-arbitration-paralegal/57501883"
@@ -5655,7 +5732,7 @@
    "ids": [
     "reed:57498500"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/conveyancing-secretary/57498500"
    },
@@ -5696,7 +5773,7 @@
     "reed:57496581",
     "reed:57496580"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/conveyancing-assistant-paralegal/57496582"
    },
@@ -5775,7 +5852,7 @@
    "ids": [
     "reed:57497192"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/hybrid-family-law-caseworker/57497192"
    },
@@ -5814,7 +5891,7 @@
     "reed:57496334",
     "adzuna:5948635272"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5948635272?se=dsOoAZvd8RGhn6tFR53qbQ&utm_medium=api&utm_source=09275c04&v=17FD66FC315FDBDBCB1C5239B11A887358805FC2",
     "Reed": "https://www.reed.co.uk/jobs/property-disputes-paralegal/57496334"
@@ -5931,7 +6008,7 @@
     "reed:57495318",
     "reed:57495315"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/employment-solicitor/57495315"
    },
@@ -5969,7 +6046,7 @@
    "ids": [
     "reed:57495329"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/employment-lawyer/57495329"
    },
@@ -6007,7 +6084,7 @@
    "ids": [
     "reed:57494203"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/derivatives-paralegal/57494203"
    },
@@ -6045,7 +6122,7 @@
    "ids": [
     "reed:57492798"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/paralegal/57492798"
    },
@@ -6083,7 +6160,7 @@
    "ids": [
     "reed:57492725"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/conveyancing-paralegal/57492725"
    },
@@ -6121,7 +6198,7 @@
    "ids": [
     "reed:57492835"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/finance-paralegal-derivatives/57492835"
    },
@@ -6159,7 +6236,7 @@
    "ids": [
     "reed:57492357"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/transactional-executive/57492357"
    },
@@ -6237,7 +6314,7 @@
     "adzuna:5940484105",
     "adzuna:5939639580"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5939639580?utm_medium=api&utm_source=09275c04",
     "Reed": "https://www.reed.co.uk/jobs/criminal-solicitor/57489042"
@@ -6702,7 +6779,7 @@
     "adzuna:5939324824",
     "adzuna:5940484008"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5939324824?utm_medium=api&utm_source=09275c04",
     "Reed": "https://www.reed.co.uk/jobs/family-paralegal/57486501"
@@ -7085,7 +7162,7 @@
    "ids": [
     "reed:57485813"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/to-mid-40s-patent-records-paralegal-contract-london/57485813"
    },
@@ -7355,7 +7432,7 @@
     "reed:57483442",
     "adzuna:5939263541"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5939263541?se=mOsLBJvd8RGW67hsumO50A&utm_medium=api&utm_source=09275c04&v=88C9016E904A05E4BB29EAABFFAB355571EAFFE7",
     "Reed": "https://www.reed.co.uk/jobs/knowledge-innovation-specialist-paralegal/57483442"
@@ -7548,7 +7625,7 @@
     "reed:57473554",
     "reed:57485292"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/funds-paralegal/57485292"
    },
@@ -7586,7 +7663,7 @@
    "ids": [
     "reed:57479147"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/legal-secretary-property/57479147"
    },
@@ -7662,7 +7739,7 @@
    "ids": [
     "reed:57480039"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/property-litigation-paralegal/57480039"
    },
@@ -7701,7 +7778,7 @@
     "reed:57479624",
     "adzuna:5938636416"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5938636416?utm_medium=api&utm_source=09275c04",
     "Reed": "https://www.reed.co.uk/jobs/criminal-solicitor/57479624"
@@ -7741,7 +7818,7 @@
    "ids": [
     "reed:57480217"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/criminal-solicitor/57480217"
    },
@@ -8130,7 +8207,7 @@
    "ids": [
     "reed:57477482"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/senior-conveyancing-paralegal/57477482"
    },
@@ -8168,7 +8245,7 @@
    "ids": [
     "reed:57477059"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/corporate-paralegal--healthcare-dental/57477059"
    },
@@ -8206,7 +8283,7 @@
    "ids": [
     "reed:57477388"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/admin-assistant-property-finance/57477388"
    },
@@ -8478,7 +8555,7 @@
    "ids": [
     "reed:57473772"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/anti-corruption-investigations-paralegal/57473772"
    },
@@ -8516,7 +8593,7 @@
    "ids": [
     "reed:57470714"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/litigation-enforcement-paralegal/57470714"
    },
@@ -8555,7 +8632,7 @@
     "reed:57471212",
     "adzuna:5935211888"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5935211888?se=7hB6Bpvd8RGhn6tFR53qbQ&utm_medium=api&utm_source=09275c04&v=1DBBD4834D9CA9C794669D698038722C40089D97",
     "Reed": "https://www.reed.co.uk/jobs/lpc-sqe1-graduates/57471212"
@@ -8847,23 +8924,25 @@
   {
    "category": "Legal Jobs",
    "company": "Larbey Evans Ltd",
-   "contract_raw": "",
-   "contract_type": "Not specified",
-   "description": "Senior Employment Paralegal Award-winning global law firm is seeking a highly motivated Senior Employment Paralegal who has extensive tribunal experience, and a history of managing their own caseload of tribunal claims, to join their dynamic team in London. Generous salary paid overtime Exceptional employee benefits Subsidised on-site restaurant and coffee bar 09:30-17:30 working hours Hybrid working (3 days office / 2 days remote) Key Responsibilities of the Senior Employment Paralegal: Manag…",
-   "experience_evidence": "",
-   "experience_level": "Not stated",
-   "expires": null,
+   "contract_raw": "Permanent",
+   "contract_type": "Permanent",
+   "description": "Senior Employment Paralegal Award-winning global law firm is seeking a highly motivated Senior Employment Paralegal who has extensive tribunal experience, and a history of managing their own caseload of tribunal claims, to join their dynamic team in London. What’s On Offer: Generous salary + paid overtime Exceptional employee benefits Subsidised on-site restaurant and coffee bar 09:30-17:30 working hours Hybrid working (3 days office / 2 days remote) Senior Employment Paralegal – What You’ll Be Doing: Manage own busy tribunal case load from ACAS EC stage to completion Draft risk assessments, compile disclosure, draft witness statements, and prepare for final hearing Maintain regular communication with client, including providing updates and advice as needed Senior Employment Paralegal – What We’re Looking For: Proven experience as an Employment Paralegal within a law firm Must have experience managing a busy caseload Extensive tribunal experience is essential",
+   "experience_evidence": "Proven experience",
+   "experience_level": "Experience required",
+   "expires": "2026-12-23",
    "fingerprint": "senior employment paralegal|larbey evans",
    "first_seen": "2026-10-22T01:02:45Z",
-   "hours": "",
-   "hours_raw": "",
+   "hours": "Full-time",
+   "hours_raw": "Full-time",
    "id": "adzuna:5931812528",
    "ids": [
-    "adzuna:5931812528"
+    "adzuna:5931812528",
+    "reed:57558500"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
-    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5931812528?se=7hB6Bpvd8RGhn6tFR53qbQ&utm_medium=api&utm_source=09275c04&v=F75BDA99DB8A3789EE3772F9E46C1BAF740A5C7E"
+    "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5931812528?se=7hB6Bpvd8RGhn6tFR53qbQ&utm_medium=api&utm_source=09275c04&v=F75BDA99DB8A3789EE3772F9E46C1BAF740A5C7E",
+    "Reed": "https://www.reed.co.uk/jobs/senior-employment-paralegal/57558500"
    },
    "location": "The City, Central London",
    "policy_focus": false,
@@ -8877,7 +8956,8 @@
    "score_reason": "Base 3; +1 career-friendly (hybrid)",
    "source": "Adzuna",
    "sources": [
-    "Adzuna"
+    "Adzuna",
+    "Reed"
    ],
    "title": "Senior Employment Paralegal",
    "url": "https://www.adzuna.co.uk/jobs/land/ad/5931812528?se=7hB6Bpvd8RGhn6tFR53qbQ&utm_medium=api&utm_source=09275c04&v=F75BDA99DB8A3789EE3772F9E46C1BAF740A5C7E"
@@ -9090,7 +9170,7 @@
     "reed:57467983",
     "adzuna:5931072483"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5931072483?se=7hB6Bpvd8RGhn6tFR53qbQ&utm_medium=api&utm_source=09275c04&v=11E8DA29DA40E233FDE0B762C754AEC11E6E5AD2",
     "Reed": "https://www.reed.co.uk/jobs/paralegal-funds/57467983"
@@ -9131,7 +9211,7 @@
     "reed:57468137",
     "adzuna:5934000966"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5934000966?se=7hB6Bpvd8RGhn6tFR53qbQ&utm_medium=api&utm_source=09275c04&v=06B65418410A83E4079BDC4FAF4368C2DDAD3D47",
     "Reed": "https://www.reed.co.uk/jobs/construction-paralegal/57468137"
@@ -9210,7 +9290,7 @@
     "reed:57468178",
     "adzuna:5931812641"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5931812641?se=7hB6Bpvd8RGhn6tFR53qbQ&utm_medium=api&utm_source=09275c04&v=B1230C878E4BF11D1EAFF6A4B1A4A45275DC6960",
     "Reed": "https://www.reed.co.uk/jobs/non-contentious-construction-paralegal-12-month-ftc/57468178"
@@ -9250,7 +9330,7 @@
    "ids": [
     "reed:57467966"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/c45000-formalities-paralegal-trade-marks/57467966"
    },
@@ -9289,7 +9369,7 @@
     "reed:57468087",
     "adzuna:5931072531"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5931072531?se=7hB6Bpvd8RGhn6tFR53qbQ&utm_medium=api&utm_source=09275c04&v=96DE4670CA77A1B452A2C0E7E3C7C68853706654",
     "Reed": "https://www.reed.co.uk/jobs/legal-assistant-funds/57468087"
@@ -9329,7 +9409,7 @@
    "ids": [
     "reed:57468090"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/private-client-legal-assistant/57468090"
    },
@@ -9367,7 +9447,7 @@
    "ids": [
     "reed:57468051"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/stpd-legal-capital-market-advisory-lawyer-executive-director-smbc/57468051"
    },
@@ -9444,7 +9524,7 @@
     "reed:57467636",
     "adzuna:5931812601"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5931812601?se=7hB6Bpvd8RGhn6tFR53qbQ&utm_medium=api&utm_source=09275c04&v=920457DAC55ED23EF5FE415031896FB775A322A6",
     "Reed": "https://www.reed.co.uk/jobs/private-client-paralegal/57467636"
@@ -9525,7 +9605,7 @@
    "ids": [
     "reed:57467502"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/citma-paralegal-manager--london/57467502"
    },
@@ -9601,7 +9681,7 @@
    "ids": [
     "reed:57465399"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/temporary-legal-operations-assistant/57465399"
    },
@@ -9718,7 +9798,7 @@
    "ids": [
     "reed:57464237"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/paralegal-private-markets-carnegie-consulting/57464237"
    },
@@ -9874,7 +9954,7 @@
     "reed:57462252",
     "adzuna:5929131318"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5929131318?se=7hB6Bpvd8RGhn6tFR53qbQ&utm_medium=api&utm_source=09275c04&v=698F946CE0BB15AB061F3EF8CDFD7DCDD7A34723",
     "Reed": "https://www.reed.co.uk/jobs/plot-sales-paralegal/57462252"
@@ -9914,7 +9994,7 @@
    "ids": [
     "reed:57461646"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/coneyancing-paralegal-in-east-london/57461646"
    },
@@ -10182,7 +10262,7 @@
     "reed:57459066",
     "adzuna:5928846894"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5928846894?se=7hB6Bpvd8RGhn6tFR53qbQ&utm_medium=api&utm_source=09275c04&v=BF7F3CA12C4814EDB61C50DCC35D86424F15299D",
     "Reed": "https://www.reed.co.uk/jobs/conveyancing-lawyer/57459066"
@@ -10222,7 +10302,7 @@
    "ids": [
     "reed:57459605"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/trade-mark-paralegal/57459605"
    },
@@ -10260,7 +10340,7 @@
    "ids": [
     "reed:57459704"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/graduate-executive-search-consultant/57459704"
    },
@@ -10375,7 +10455,7 @@
    "ids": [
     "reed:57458606"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/property-legal-secretary/57458606"
    },
@@ -11138,7 +11218,7 @@
    "ids": [
     "reed:57454182"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/senior-citma-paralegal--london--c60000/57454182"
    },
@@ -11256,7 +11336,7 @@
    "ids": [
     "reed:57452082"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Reed": "https://www.reed.co.uk/jobs/conveyancing-paralegal/57452082"
    },
@@ -11639,7 +11719,7 @@
     "reed:57451215",
     "adzuna:5925718685"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/details/5925718685?utm_medium=api&utm_source=09275c04",
     "Reed": "https://www.reed.co.uk/jobs/family-paralegal-fully-remote/57451215"
@@ -11682,7 +11762,7 @@
     "adzuna:5924224302",
     "adzuna:5929014667"
    ],
-   "last_seen": "2026-11-11T06:41:54Z",
+   "last_seen": "2026-11-11T17:15:00Z",
    "links": {
     "Adzuna": "https://www.adzuna.co.uk/jobs/land/ad/5929014667?se=7hB6Bpvd8RGhn6tFR53qbQ&utm_medium=api&utm_source=09275c04&v=A14CE55B776F5A3EC460555BFA1A68D897483945",
     "Reed": "https://www.reed.co.uk/jobs/paralegal/57448175"
@@ -11745,9 +11825,9 @@
   }
  ],
  "meta": {
-  "last_run": "2026-11-11T06:41:54Z",
-  "new_this_run": 37,
-  "previous_run": "2026-11-10T21:20:20Z",
+  "last_run": "2026-11-11T17:15:00Z",
+  "new_this_run": 34,
+  "previous_run": "2026-11-11T06:41:54Z",
   "search": {
    "keywords": "paralegal",
    "location": "London",
@@ -11755,9 +11835,9 @@
    "radius_miles": 10
   },
   "sources": {
-   "Adzuna": "ok (197 results)",
-   "Reed": "ok (139 results)"
+   "Adzuna": "error: HTTP 503 Service Temporarily Unavailable",
+   "Reed": "ok (141 results)"
   },
-  "total": 304
+  "total": 306
  }
 }
